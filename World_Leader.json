@@ -1,0 +1,1853 @@
+{
+    "version": 1,
+    "data": [
+        {
+            "name": "World Leaders",
+            "description": "List of world leaders as of 2025-02-05T09:05:54.566706",
+            "usage": 4,
+            "link": "https://raw.githubusercontent.com/ait-cs-IaaS/wordlists/master/output/leaders.json",
+            "entries": [
+                {
+                  "value": "Hibatullah Akhundzada",
+                  "category": "Supreme Leader",
+                  "origin": "Afghanistan"
+                },
+                {
+                  "value": "Hasan Akhund",
+                  "category": "Acting Prime Minister",
+                  "origin": "Afghanistan"
+                },
+                {
+                  "value": "Bajram Begaj",
+                  "category": "President",
+                  "origin": "Albania"
+                },
+                {
+                  "value": "Edi Rama",
+                  "category": "Prime Minister",
+                  "origin": "Albania"
+                },
+                {
+                  "value": "Abdelmadjid Tebboune",
+                  "category": "President",
+                  "origin": "Algeria"
+                },
+                {
+                  "value": "Nadir Larbaoui",
+                  "category": "Prime Minister",
+                  "origin": "Algeria"
+                },
+                {
+                  "value": "Joan Enric Vives i Sicília",
+                  "category": "Episcopal Co-Prince",
+                  "origin": "Andorra"
+                },
+                {
+                  "value": "Emmanuel Macron",
+                  "category": "French Co-Prince",
+                  "origin": "Andorra"
+                },
+                {
+                  "value": "Xavier Espot Zamora",
+                  "category": "Prime Minister",
+                  "origin": "Andorra"
+                },
+                {
+                  "value": "João Lourenço",
+                  "category": "President",
+                  "origin": "Angola"
+                },
+                {
+                  "value": "Charles III",
+                  "category": "King",
+                  "origin": "Antigua and Barbuda"
+                },
+                {
+                  "value": "Sir Rodney Williams",
+                  "category": "Governor-General",
+                  "origin": "Antigua and Barbuda"
+                },
+                {
+                  "value": "Gaston Browne",
+                  "category": "Prime Minister",
+                  "origin": "Antigua and Barbuda"
+                },
+                {
+                  "value": "Javier Milei",
+                  "category": "President",
+                  "origin": "Argentina"
+                },
+                {
+                  "value": "Vahagn Khachaturyan",
+                  "category": "President",
+                  "origin": "Armenia"
+                },
+                {
+                  "value": "Nikol Pashinyan",
+                  "category": "Prime Minister",
+                  "origin": "Armenia"
+                },
+                {
+                  "value": "Charles III",
+                  "category": "King",
+                  "origin": "Australia"
+                },
+                {
+                  "value": "Sam Mostyn",
+                  "category": "Governor-General",
+                  "origin": "Australia"
+                },
+                {
+                  "value": "Anthony Albanese",
+                  "category": "Prime Minister",
+                  "origin": "Australia"
+                },
+                {
+                  "value": "Alexander Van der Bellen",
+                  "category": "President",
+                  "origin": "Austria"
+                },
+                {
+                  "value": "Alexander Schallenberg",
+                  "category": "Acting Chancellor",
+                  "origin": "Austria"
+                },
+                {
+                  "value": "Ilham Aliyev",
+                  "category": "President",
+                  "origin": "Azerbaijan"
+                },
+                {
+                  "value": "Ali Asadov",
+                  "category": "Prime Minister",
+                  "origin": "Azerbaijan"
+                },
+                {
+                  "value": "Charles III",
+                  "category": "King",
+                  "origin": "The Bahamas"
+                },
+                {
+                  "value": "Dame Cynthia A. Pratt",
+                  "category": "Governor-General",
+                  "origin": "The Bahamas"
+                },
+                {
+                  "value": "Philip Davis",
+                  "category": "Prime Minister",
+                  "origin": "The Bahamas"
+                },
+                {
+                  "value": "Sheikh Hamad bin Isa Al Khalifa",
+                  "category": "King",
+                  "origin": "Bahrain"
+                },
+                {
+                  "value": "Prince Salman bin Hamad Al Khalifa",
+                  "category": "Prime Minister",
+                  "origin": "Bahrain"
+                },
+                {
+                  "value": "Mohammed Shahabuddin",
+                  "category": "President",
+                  "origin": "Bangladesh"
+                },
+                {
+                  "value": "Muhammad Yunus",
+                  "category": "Chief Adviser",
+                  "origin": "Bangladesh"
+                },
+                {
+                  "value": "Dame Sandra Mason",
+                  "category": "President",
+                  "origin": "Barbados"
+                },
+                {
+                  "value": "Mia Mottley",
+                  "category": "Prime Minister",
+                  "origin": "Barbados"
+                },
+                {
+                  "value": "Alexander Lukashenko",
+                  "category": "Chairman of the All-Belarusian People's Assembly",
+                  "origin": "Belarus"
+                },
+                {
+                  "value": "Alexander Lukashenko",
+                  "category": "President",
+                  "origin": "Belarus"
+                },
+                {
+                  "value": "Roman Golovchenko",
+                  "category": "Prime Minister",
+                  "origin": "Belarus"
+                },
+                {
+                  "value": "Philippe",
+                  "category": "King",
+                  "origin": "Belgium"
+                },
+                {
+                  "value": "Bart De Wever",
+                  "category": "Prime Minister",
+                  "origin": "Belgium"
+                },
+                {
+                  "value": "Charles III",
+                  "category": "King",
+                  "origin": "Belize"
+                },
+                {
+                  "value": "Dame Froyla Tzalam",
+                  "category": "Governor-General",
+                  "origin": "Belize"
+                },
+                {
+                  "value": "Johnny Briceño",
+                  "category": "Prime Minister",
+                  "origin": "Belize"
+                },
+                {
+                  "value": "Patrice Talon",
+                  "category": "President",
+                  "origin": "Benin"
+                },
+                {
+                  "value": "Jigme Khesar Namgyel Wangchuck",
+                  "category": "King",
+                  "origin": "Bhutan"
+                },
+                {
+                  "value": "Tshering Tobgay",
+                  "category": "Prime Minister",
+                  "origin": "Bhutan"
+                },
+                {
+                  "value": "Luis Arce",
+                  "category": "President",
+                  "origin": "Bolivia"
+                },
+                {
+                  "value": "Christian Schmidt",
+                  "category": "High Representative",
+                  "origin": "Bosnia and Herzegovina"
+                },
+                {
+                  "value": "Borjana Krišto",
+                  "category": "Chairwoman of the Council of Ministers",
+                  "origin": "Bosnia and Herzegovina"
+                },
+                {
+                  "value": "Željka Cvijanović",
+                  "category": "Member of the Presidency",
+                  "origin": "Bosnia and Herzegovina"
+                },
+                {
+                  "value": "Denis Bećirović",
+                  "category": "Member of the Presidency",
+                  "origin": "Bosnia and Herzegovina"
+                },
+                {
+                  "value": "Željko Komšić",
+                  "category": "Member of the Presidency",
+                  "origin": "Bosnia and Herzegovina"
+                },
+                {
+                  "value": "Duma Boko",
+                  "category": "President",
+                  "origin": "Botswana"
+                },
+                {
+                  "value": "Luiz Inácio Lula da Silva",
+                  "category": "President",
+                  "origin": "Brazil"
+                },
+                {
+                  "value": "Hassanal Bolkiah",
+                  "category": "Sultan and Prime Minister",
+                  "origin": "Brunei"
+                },
+                {
+                  "value": "Rumen Radev",
+                  "category": "President",
+                  "origin": "Bulgaria"
+                },
+                {
+                  "value": "Rosen Zhelyazkov",
+                  "category": "Prime Minister",
+                  "origin": "Bulgaria"
+                },
+                {
+                  "value": "Ibrahim Traoré",
+                  "category": "President of the Patriotic Movement for Safeguard and Restoration",
+                  "origin": "Burkina Faso"
+                },
+                {
+                  "value": "Ibrahim Traoré",
+                  "category": "Interim President",
+                  "origin": "Burkina Faso"
+                },
+                {
+                  "value": "Jean Emmanuel Ouédraogo",
+                  "category": "Interim Prime Minister",
+                  "origin": "Burkina Faso"
+                },
+                {
+                  "value": "Évariste Ndayishimiye",
+                  "category": "President",
+                  "origin": "Burundi"
+                },
+                {
+                  "value": "Gervais Ndirakobuca",
+                  "category": "Prime Minister",
+                  "origin": "Burundi"
+                },
+                {
+                  "value": "Hun Sen",
+                  "category": "President of the People's Party",
+                  "origin": "Cambodia"
+                },
+                {
+                  "value": "Norodom Sihamoni",
+                  "category": "King",
+                  "origin": "Cambodia"
+                },
+                {
+                  "value": "Hun Manet",
+                  "category": "Prime Minister",
+                  "origin": "Cambodia"
+                },
+                {
+                  "value": "Paul Biya",
+                  "category": "President",
+                  "origin": "Cameroon"
+                },
+                {
+                  "value": "Joseph Ngute",
+                  "category": "Prime Minister",
+                  "origin": "Cameroon"
+                },
+                {
+                  "value": "Charles III",
+                  "category": "King",
+                  "origin": "Canada"
+                },
+                {
+                  "value": "Mary Simon",
+                  "category": "Governor-General",
+                  "origin": "Canada"
+                },
+                {
+                  "value": "Justin Trudeau",
+                  "category": "Prime Minister",
+                  "origin": "Canada"
+                },
+                {
+                  "value": "José Maria Neves",
+                  "category": "President",
+                  "origin": "Cape Verde"
+                },
+                {
+                  "value": "Ulisses Correia e Silva",
+                  "category": "Prime Minister",
+                  "origin": "Cape Verde"
+                },
+                {
+                  "value": "Faustin-Archange Touadéra",
+                  "category": "President",
+                  "origin": "Central African Republic"
+                },
+                {
+                  "value": "Félix Moloua",
+                  "category": "Prime Minister",
+                  "origin": "Central African Republic"
+                },
+                {
+                  "value": "Mahamat Déby",
+                  "category": "President",
+                  "origin": "Chad"
+                },
+                {
+                  "value": "Allamaye Halina",
+                  "category": "Prime Minister",
+                  "origin": "Chad"
+                },
+                {
+                  "value": "Gabriel Boric",
+                  "category": "President",
+                  "origin": "Chile"
+                },
+                {
+                  "value": "Xi Jinping",
+                  "category": "General Secretary of the Communist Party",
+                  "origin": "China"
+                },
+                {
+                  "value": "Xi Jinping",
+                  "category": "President",
+                  "origin": "China"
+                },
+                {
+                  "value": "Li Qiang",
+                  "category": "Premier",
+                  "origin": "China"
+                },
+                {
+                  "value": "Gustavo Petro",
+                  "category": "President",
+                  "origin": "Colombia"
+                },
+                {
+                  "value": "Azali Assoumani",
+                  "category": "President",
+                  "origin": "Comoros"
+                },
+                {
+                  "value": "Félix Tshisekedi",
+                  "category": "President",
+                  "origin": "Congo, Democratic Republic of"
+                },
+                {
+                  "value": "Judith Suminwa",
+                  "category": "Prime Minister",
+                  "origin": "Congo, Democratic Republic of"
+                },
+                {
+                  "value": "Denis Sassou Nguesso",
+                  "category": "President",
+                  "origin": "Congo, Republic of"
+                },
+                {
+                  "value": "Anatole Collinet Makosso",
+                  "category": "Prime Minister",
+                  "origin": "Congo, Republic of"
+                },
+                {
+                  "value": "Rodrigo Chaves Robles",
+                  "category": "President",
+                  "origin": "Costa Rica"
+                },
+                {
+                  "value": "Zoran Milanović",
+                  "category": "President",
+                  "origin": "Croatia"
+                },
+                {
+                  "value": "Andrej Plenković",
+                  "category": "Prime Minister",
+                  "origin": "Croatia"
+                },
+                {
+                  "value": "Miguel Díaz-Canel",
+                  "category": "First Secretary of the Communist Party",
+                  "origin": "Cuba"
+                },
+                {
+                  "value": "Miguel Díaz-Canel",
+                  "category": "President",
+                  "origin": "Cuba"
+                },
+                {
+                  "value": "Manuel Marrero Cruz",
+                  "category": "Prime Minister",
+                  "origin": "Cuba"
+                },
+                {
+                  "value": "Nikos Christodoulides",
+                  "category": "President",
+                  "origin": "Cyprus"
+                },
+                {
+                  "value": "Petr Pavel",
+                  "category": "President",
+                  "origin": "Czech Republic"
+                },
+                {
+                  "value": "Petr Fiala",
+                  "category": "Prime Minister",
+                  "origin": "Czech Republic"
+                },
+                {
+                  "value": "Frederik X",
+                  "category": "King",
+                  "origin": "Denmark"
+                },
+                {
+                  "value": "Mette Frederiksen",
+                  "category": "Prime Minister",
+                  "origin": "Denmark"
+                },
+                {
+                  "value": "Ismaïl Omar Guelleh",
+                  "category": "President",
+                  "origin": "Djibouti"
+                },
+                {
+                  "value": "Abdoulkader Kamil Mohamed",
+                  "category": "Prime Minister",
+                  "origin": "Djibouti"
+                },
+                {
+                  "value": "Sylvanie Burton",
+                  "category": "President",
+                  "origin": "Dominica"
+                },
+                {
+                  "value": "Roosevelt Skerrit",
+                  "category": "Prime Minister",
+                  "origin": "Dominica"
+                },
+                {
+                  "value": "Luis Abinader",
+                  "category": "President",
+                  "origin": "Dominican Republic"
+                },
+                {
+                  "value": "José Ramos-Horta",
+                  "category": "President",
+                  "origin": "East Timor"
+                },
+                {
+                  "value": "Xanana Gusmão",
+                  "category": "Prime Minister",
+                  "origin": "East Timor"
+                },
+                {
+                  "value": "Daniel Noboa",
+                  "category": "President",
+                  "origin": "Ecuador"
+                },
+                {
+                  "value": "Abdel Fattah el-Sisi",
+                  "category": "President",
+                  "origin": "Egypt"
+                },
+                {
+                  "value": "Mostafa Madbouly",
+                  "category": "Prime Minister",
+                  "origin": "Egypt"
+                },
+                {
+                  "value": "Nayib Bukele",
+                  "category": "President",
+                  "origin": "El Salvador"
+                },
+                {
+                  "value": "Teodoro Obiang Nguema Mbasogo",
+                  "category": "President",
+                  "origin": "Equatorial Guinea"
+                },
+                {
+                  "value": "Manuel Osa Nsue Nsua",
+                  "category": "Prime Minister",
+                  "origin": "Equatorial Guinea"
+                },
+                {
+                  "value": "Isaias Afwerki",
+                  "category": "President",
+                  "origin": "Eritrea"
+                },
+                {
+                  "value": "Alar Karis",
+                  "category": "President",
+                  "origin": "Estonia"
+                },
+                {
+                  "value": "Kristen Michal",
+                  "category": "Prime Minister",
+                  "origin": "Estonia"
+                },
+                {
+                  "value": "Mswati III",
+                  "category": "Ngwenyama",
+                  "origin": "Eswatini"
+                },
+                {
+                  "value": "Ntfombi",
+                  "category": "Ndlovukati",
+                  "origin": "Eswatini"
+                },
+                {
+                  "value": "Abiy Ahmed",
+                  "category": "Prime Minister",
+                  "origin": "Ethiopia"
+                },
+                {
+                  "value": "Taye Atske Selassie",
+                  "category": "President",
+                  "origin": "Ethiopia"
+                },
+                {
+                  "value": "Ratu Naiqama Lalabalavu",
+                  "category": "President",
+                  "origin": "Fiji"
+                },
+                {
+                  "value": "Sitiveni Rabuka",
+                  "category": "Prime Minister",
+                  "origin": "Fiji"
+                },
+                {
+                  "value": "Alexander Stubb",
+                  "category": "President",
+                  "origin": "Finland"
+                },
+                {
+                  "value": "Petteri Orpo",
+                  "category": "Prime Minister",
+                  "origin": "Finland"
+                },
+                {
+                  "value": "Emmanuel Macron",
+                  "category": "President",
+                  "origin": "France"
+                },
+                {
+                  "value": "François Bayrou",
+                  "category": "Prime Minister",
+                  "origin": "France"
+                },
+                {
+                  "value": "Brice Oligui Nguema",
+                  "category": "Chairman of the Committee for the Transition and Restoration of Institutions",
+                  "origin": "Gabon"
+                },
+                {
+                  "value": "Brice Oligui Nguema",
+                  "category": "Transitional President",
+                  "origin": "Gabon"
+                },
+                {
+                  "value": "Raymond Ndong Sima",
+                  "category": "Interim Prime Minister",
+                  "origin": "Gabon"
+                },
+                {
+                  "value": "Adama Barrow",
+                  "category": "President",
+                  "origin": "The Gambia"
+                },
+                {
+                  "value": "Mikheil Kavelashvili",
+                  "category": "President",
+                  "origin": "Georgia"
+                },
+                {
+                  "value": "Irakli Kobakhidze",
+                  "category": "Prime Minister",
+                  "origin": "Georgia"
+                },
+                {
+                  "value": "Frank-Walter Steinmeier",
+                  "category": "President",
+                  "origin": "Germany"
+                },
+                {
+                  "value": "Olaf Scholz",
+                  "category": "Chancellor",
+                  "origin": "Germany"
+                },
+                {
+                  "value": "John Mahama",
+                  "category": "President",
+                  "origin": "Ghana"
+                },
+                {
+                  "value": "Katerina Sakellaropoulou",
+                  "category": "President",
+                  "origin": "Greece"
+                },
+                {
+                  "value": "Kyriakos Mitsotakis",
+                  "category": "Prime Minister",
+                  "origin": "Greece"
+                },
+                {
+                  "value": "Charles III",
+                  "category": "King",
+                  "origin": "Grenada"
+                },
+                {
+                  "value": "Dame Cécile La Grenade",
+                  "category": "Governor-General",
+                  "origin": "Grenada"
+                },
+                {
+                  "value": "Dickon Mitchell",
+                  "category": "Prime Minister",
+                  "origin": "Grenada"
+                },
+                {
+                  "value": "Bernardo Arévalo",
+                  "category": "President",
+                  "origin": "Guatemala"
+                },
+                {
+                  "value": "Mamady Doumbouya",
+                  "category": "Interim President",
+                  "origin": "Guinea"
+                },
+                {
+                  "value": "Bah Oury",
+                  "category": "Prime Minister",
+                  "origin": "Guinea"
+                },
+                {
+                  "value": "Umaro Sissoco Embaló",
+                  "category": "President",
+                  "origin": "Guinea-Bissau"
+                },
+                {
+                  "value": "Rui Duarte de Barros",
+                  "category": "Prime Minister",
+                  "origin": "Guinea-Bissau"
+                },
+                {
+                  "value": "Irfaan Ali",
+                  "category": "President",
+                  "origin": "Guyana"
+                },
+                {
+                  "value": "Mark Phillips",
+                  "category": "Prime Minister",
+                  "origin": "Guyana"
+                },
+                {
+                  "value": "Leslie Voltaire",
+                  "category": "President",
+                  "origin": "Haiti"
+                },
+                {
+                  "value": "Alix Didier Fils-Aimé",
+                  "category": "Acting Prime Minister",
+                  "origin": "Haiti"
+                },
+                {
+                  "value": "Xiomara Castro",
+                  "category": "President",
+                  "origin": "Honduras"
+                },
+                {
+                  "value": "Tamás Sulyok",
+                  "category": "President",
+                  "origin": "Hungary"
+                },
+                {
+                  "value": "Viktor Orbán",
+                  "category": "Prime Minister",
+                  "origin": "Hungary"
+                },
+                {
+                  "value": "Halla Tómasdóttir",
+                  "category": "President",
+                  "origin": "Iceland"
+                },
+                {
+                  "value": "Kristrún Frostadóttir",
+                  "category": "Prime Minister",
+                  "origin": "Iceland"
+                },
+                {
+                  "value": "Droupadi Murmu",
+                  "category": "President",
+                  "origin": "India"
+                },
+                {
+                  "value": "Narendra Modi",
+                  "category": "Prime Minister",
+                  "origin": "India"
+                },
+                {
+                  "value": "Prabowo Subianto",
+                  "category": "President",
+                  "origin": "Indonesia"
+                },
+                {
+                  "value": "Ali Khamenei",
+                  "category": "Supreme Leader",
+                  "origin": "Iran"
+                },
+                {
+                  "value": "Masoud Pezeshkian",
+                  "category": "President",
+                  "origin": "Iran"
+                },
+                {
+                  "value": "Abdul Latif Rashid",
+                  "category": "President",
+                  "origin": "Iraq"
+                },
+                {
+                  "value": "Mohammed Shia' Al Sudani",
+                  "category": "Prime Minister",
+                  "origin": "Iraq"
+                },
+                {
+                  "value": "Michael D. Higgins",
+                  "category": "President",
+                  "origin": "Ireland"
+                },
+                {
+                  "value": "Micheál Martin",
+                  "category": "Taoiseach",
+                  "origin": "Ireland"
+                },
+                {
+                  "value": "Isaac Herzog",
+                  "category": "President",
+                  "origin": "Israel"
+                },
+                {
+                  "value": "Benjamin Netanyahu",
+                  "category": "Prime Minister",
+                  "origin": "Israel"
+                },
+                {
+                  "value": "Sergio Mattarella",
+                  "category": "President",
+                  "origin": "Italy"
+                },
+                {
+                  "value": "Giorgia Meloni",
+                  "category": "Prime Minister",
+                  "origin": "Italy"
+                },
+                {
+                  "value": "Alassane Ouattara",
+                  "category": "President",
+                  "origin": "Ivory Coast"
+                },
+                {
+                  "value": "Robert Beugré Mambé",
+                  "category": "Prime Minister",
+                  "origin": "Ivory Coast"
+                },
+                {
+                  "value": "Charles III",
+                  "category": "King",
+                  "origin": "Jamaica"
+                },
+                {
+                  "value": "Sir Patrick Allen",
+                  "category": "Governor-General",
+                  "origin": "Jamaica"
+                },
+                {
+                  "value": "Andrew Holness",
+                  "category": "Prime Minister",
+                  "origin": "Jamaica"
+                },
+                {
+                  "value": "Naruhito",
+                  "category": "Emperor",
+                  "origin": "Japan"
+                },
+                {
+                  "value": "Shigeru Ishiba",
+                  "category": "Prime Minister",
+                  "origin": "Japan"
+                },
+                {
+                  "value": "Abdullah II",
+                  "category": "King",
+                  "origin": "Jordan"
+                },
+                {
+                  "value": "Jafar Hassan",
+                  "category": "Prime Minister",
+                  "origin": "Jordan"
+                },
+                {
+                  "value": "Kassym-Jomart Tokayev",
+                  "category": "President",
+                  "origin": "Kazakhstan"
+                },
+                {
+                  "value": "Oljas Bektenov",
+                  "category": "Prime Minister",
+                  "origin": "Kazakhstan"
+                },
+                {
+                  "value": "William Ruto",
+                  "category": "President",
+                  "origin": "Kenya"
+                },
+                {
+                  "value": "Taneti Maamau",
+                  "category": "President",
+                  "origin": "Kiribati"
+                },
+                {
+                  "value": "Sheikh Mishal Al-Ahmad Al-Jaber Al-Sabah",
+                  "category": "Emir",
+                  "origin": "Kuwait"
+                },
+                {
+                  "value": "Ahmad Al-Abdullah Al-Sabah",
+                  "category": "Prime Minister",
+                  "origin": "Kuwait"
+                },
+                {
+                  "value": "Sadyr Japarov",
+                  "category": "President",
+                  "origin": "Kyrgyzstan"
+                },
+                {
+                  "value": "Adylbek Kasymaliev",
+                  "category": "Chairman of the Cabinet of Ministers",
+                  "origin": "Kyrgyzstan"
+                },
+                {
+                  "value": "Thongloun Sisoulith",
+                  "category": "General Secretary of the People’s Revolutionary Party",
+                  "origin": "Laos"
+                },
+                {
+                  "value": "Thongloun Sisoulith",
+                  "category": "President",
+                  "origin": "Laos"
+                },
+                {
+                  "value": "Sonexay Siphandone",
+                  "category": "Prime Minister",
+                  "origin": "Laos"
+                },
+                {
+                  "value": "Edgars Rinkēvičs",
+                  "category": "President",
+                  "origin": "Latvia"
+                },
+                {
+                  "value": "Evika Siliņa",
+                  "category": "Prime Minister",
+                  "origin": "Latvia"
+                },
+                {
+                  "value": "Joseph Aoun",
+                  "category": "President",
+                  "origin": "Lebanon"
+                },
+                {
+                  "value": "Najib Mikati",
+                  "category": "Prime Minister",
+                  "origin": "Lebanon"
+                },
+                {
+                  "value": "Joseph Aoun",
+                  "category": "President",
+                  "origin": "Lebanon"
+                },
+                {
+                  "value": "Nawaf Salam",
+                  "category": "Prime Minister-designate",
+                  "origin": "Lebanon"
+                },
+                {
+                  "value": "Letsie III",
+                  "category": "King",
+                  "origin": "Lesotho"
+                },
+                {
+                  "value": "Sam Matekane",
+                  "category": "Prime Minister",
+                  "origin": "Lesotho"
+                },
+                {
+                  "value": "Joseph Boakai",
+                  "category": "President",
+                  "origin": "Liberia"
+                },
+                {
+                  "value": "Mohamed al-Menfi",
+                  "category": "Chairman of the Presidential Council",
+                  "origin": "Libya"
+                },
+                {
+                  "value": "Abdul Hamid Dbeibeh",
+                  "category": "Prime Minister",
+                  "origin": "Libya"
+                },
+                {
+                  "value": "Hans-Adam II",
+                  "category": "Prince Regnant",
+                  "origin": "Liechtenstein"
+                },
+                {
+                  "value": "Alois",
+                  "category": "Regent (Hereditary Prince)",
+                  "origin": "Liechtenstein"
+                },
+                {
+                  "value": "Gitanas Nausėda",
+                  "category": "President",
+                  "origin": "Lithuania"
+                },
+                {
+                  "value": "Gintautas Paluckas",
+                  "category": "Prime Minister",
+                  "origin": "Lithuania"
+                },
+                {
+                  "value": "Henri",
+                  "category": "Grand Duke",
+                  "origin": "Luxembourg"
+                },
+                {
+                  "value": "Guillaume",
+                  "category": "Lieutenant-Representative",
+                  "origin": "Luxembourg"
+                },
+                {
+                  "value": "Luc Frieden",
+                  "category": "Prime Minister",
+                  "origin": "Luxembourg"
+                },
+                {
+                  "value": "Andry Rajoelina",
+                  "category": "President",
+                  "origin": "Madagascar"
+                },
+                {
+                  "value": "Christian Ntsay",
+                  "category": "Prime Minister",
+                  "origin": "Madagascar"
+                },
+                {
+                  "value": "Lazarus Chakwera",
+                  "category": "President",
+                  "origin": "Malawi"
+                },
+                {
+                  "value": "Ibrahim Iskandar",
+                  "category": "Yang di-Pertuan Agong",
+                  "origin": "Malaysia"
+                },
+                {
+                  "value": "Anwar Ibrahim",
+                  "category": "Prime Minister",
+                  "origin": "Malaysia"
+                },
+                {
+                  "value": "Mohamed Muizzu",
+                  "category": "President",
+                  "origin": "Maldives"
+                },
+                {
+                  "value": "Assimi Goïta",
+                  "category": "Interim President",
+                  "origin": "Mali"
+                },
+                {
+                  "value": "Abdoulaye Maïga",
+                  "category": "Interim Prime Minister",
+                  "origin": "Mali"
+                },
+                {
+                  "value": "Myriam Spiteri Debono",
+                  "category": "President",
+                  "origin": "Malta"
+                },
+                {
+                  "value": "Robert Abela",
+                  "category": "Prime Minister",
+                  "origin": "Malta"
+                },
+                {
+                  "value": "Hilda Heine",
+                  "category": "President",
+                  "origin": "Marshall Islands"
+                },
+                {
+                  "value": "Mohamed Ould Ghazouani",
+                  "category": "President",
+                  "origin": "Mauritania"
+                },
+                {
+                  "value": "Mokhtar Ould Djay",
+                  "category": "Prime Minister",
+                  "origin": "Mauritania"
+                },
+                {
+                  "value": "Dharam Gokhool",
+                  "category": "President",
+                  "origin": "Mauritius"
+                },
+                {
+                  "value": "Navin Ramgoolam",
+                  "category": "Prime Minister",
+                  "origin": "Mauritius"
+                },
+                {
+                  "value": "Claudia Sheinbaum",
+                  "category": "President",
+                  "origin": "Mexico"
+                },
+                {
+                  "value": "Wesley Simina",
+                  "category": "President",
+                  "origin": "Micronesia, Federated States of"
+                },
+                {
+                  "value": "Maia Sandu",
+                  "category": "President",
+                  "origin": "Moldova"
+                },
+                {
+                  "value": "Dorin Recean",
+                  "category": "Prime Minister",
+                  "origin": "Moldova"
+                },
+                {
+                  "value": "Albert II",
+                  "category": "Sovereign Prince",
+                  "origin": "Monaco"
+                },
+                {
+                  "value": "Isabelle Berro-Amadeï",
+                  "category": "Acting Minister of State",
+                  "origin": "Monaco"
+                },
+                {
+                  "value": "Ukhnaagiin Khürelsükh",
+                  "category": "President",
+                  "origin": "Mongolia"
+                },
+                {
+                  "value": "Luvsannamsrain Oyun-Erdene",
+                  "category": "Prime Minister",
+                  "origin": "Mongolia"
+                },
+                {
+                  "value": "Jakov Milatović",
+                  "category": "President",
+                  "origin": "Montenegro"
+                },
+                {
+                  "value": "Milojko Spajić",
+                  "category": "Prime Minister",
+                  "origin": "Montenegro"
+                },
+                {
+                  "value": "Mohammed VI",
+                  "category": "King",
+                  "origin": "Morocco"
+                },
+                {
+                  "value": "Aziz Akhannouch",
+                  "category": "Prime Minister",
+                  "origin": "Morocco"
+                },
+                {
+                  "value": "Daniel Chapo",
+                  "category": "President",
+                  "origin": "Mozambique"
+                },
+                {
+                  "value": "Maria Benvinda Levy",
+                  "category": "Prime Minister",
+                  "origin": "Mozambique"
+                },
+                {
+                  "value": "Min Aung Hlaing",
+                  "category": "Chairman of the State Administration Council",
+                  "origin": "Myanmar"
+                },
+                {
+                  "value": "Min Aung Hlaing",
+                  "category": "Acting President",
+                  "origin": "Myanmar"
+                },
+                {
+                  "value": "Min Aung Hlaing",
+                  "category": "Prime Minister",
+                  "origin": "Myanmar"
+                },
+                {
+                  "value": "Nangolo Mbumba",
+                  "category": "President",
+                  "origin": "Namibia"
+                },
+                {
+                  "value": "Saara Kuugongelwa",
+                  "category": "Prime Minister",
+                  "origin": "Namibia"
+                },
+                {
+                  "value": "Netumbo Nandi-Ndaitwah",
+                  "category": "President-elect",
+                  "origin": "Namibia"
+                },
+                {
+                  "value": "David Adeang",
+                  "category": "President",
+                  "origin": "Nauru"
+                },
+                {
+                  "value": "Ram Chandra Poudel",
+                  "category": "President",
+                  "origin": "Nepal"
+                },
+                {
+                  "value": "K. P. Sharma Oli",
+                  "category": "Prime Minister",
+                  "origin": "Nepal"
+                },
+                {
+                  "value": "Willem-Alexander",
+                  "category": "King",
+                  "origin": "Netherlands"
+                },
+                {
+                  "value": "Dick Schoof",
+                  "category": "Prime Minister",
+                  "origin": "Netherlands"
+                },
+                {
+                  "value": "Charles III",
+                  "category": "King",
+                  "origin": "New Zealand"
+                },
+                {
+                  "value": "Dame Cindy Kiro",
+                  "category": "Governor-General",
+                  "origin": "New Zealand"
+                },
+                {
+                  "value": "Christopher Luxon",
+                  "category": "Prime Minister",
+                  "origin": "New Zealand"
+                },
+                {
+                  "value": "Daniel Ortega",
+                  "category": "Co-President",
+                  "origin": "Nicaragua"
+                },
+                {
+                  "value": "Rosario Murillo",
+                  "category": "Co-President",
+                  "origin": "Nicaragua"
+                },
+                {
+                  "value": "Abdourahamane Tchiani",
+                  "category": "President of the National Council for the Safeguard of the Homeland",
+                  "origin": "Niger"
+                },
+                {
+                  "value": "Ali Lamine Zeine",
+                  "category": "Prime Minister",
+                  "origin": "Niger"
+                },
+                {
+                  "value": "Bola Tinubu",
+                  "category": "President",
+                  "origin": "Nigeria"
+                },
+                {
+                  "value": "Kim Jong Un",
+                  "category": "General Secretary of the Workers' Party",
+                  "origin": "North Korea"
+                },
+                {
+                  "value": "Kim Jong Un",
+                  "category": "President of the State Affairs Commission",
+                  "origin": "North Korea"
+                },
+                {
+                  "value": "Pak Thae-song",
+                  "category": "Premier",
+                  "origin": "North Korea"
+                },
+                {
+                  "value": "Gordana Siljanovska-Davkova",
+                  "category": "President",
+                  "origin": "North Macedonia"
+                },
+                {
+                  "value": "Hristijan Mickoski",
+                  "category": "Prime Minister",
+                  "origin": "North Macedonia"
+                },
+                {
+                  "value": "Harald V",
+                  "category": "King",
+                  "origin": "Norway"
+                },
+                {
+                  "value": "Jonas Gahr Støre",
+                  "category": "Prime Minister",
+                  "origin": "Norway"
+                },
+                {
+                  "value": "Haitham bin Tariq",
+                  "category": "Sultan and Prime Minister",
+                  "origin": "Oman"
+                },
+                {
+                  "value": "Asif Ali Zardari",
+                  "category": "President",
+                  "origin": "Pakistan"
+                },
+                {
+                  "value": "Shehbaz Sharif",
+                  "category": "Prime Minister",
+                  "origin": "Pakistan"
+                },
+                {
+                  "value": "Surangel Whipps Jr.",
+                  "category": "President",
+                  "origin": "Palau"
+                },
+                {
+                  "value": "Mahmoud Abbas",
+                  "category": "President",
+                  "origin": "Palestine"
+                },
+                {
+                  "value": "Mohammad Mustafa",
+                  "category": "Prime Minister",
+                  "origin": "Palestine"
+                },
+                {
+                  "value": "José Raúl Mulino",
+                  "category": "President",
+                  "origin": "Panama"
+                },
+                {
+                  "value": "Charles III",
+                  "category": "King",
+                  "origin": "Papua New Guinea"
+                },
+                {
+                  "value": "Sir Bob Dadae",
+                  "category": "Governor-General",
+                  "origin": "Papua New Guinea"
+                },
+                {
+                  "value": "James Marape",
+                  "category": "Prime Minister",
+                  "origin": "Papua New Guinea"
+                },
+                {
+                  "value": "Santiago Peña",
+                  "category": "President",
+                  "origin": "Paraguay"
+                },
+                {
+                  "value": "Dina Boluarte",
+                  "category": "President",
+                  "origin": "Peru"
+                },
+                {
+                  "value": "Gustavo Adrianzén",
+                  "category": "Prime Minister",
+                  "origin": "Peru"
+                },
+                {
+                  "value": "Bongbong Marcos",
+                  "category": "President",
+                  "origin": "Philippines"
+                },
+                {
+                  "value": "Andrzej Duda",
+                  "category": "President",
+                  "origin": "Poland"
+                },
+                {
+                  "value": "Donald Tusk",
+                  "category": "Prime Minister",
+                  "origin": "Poland"
+                },
+                  {
+                    "value": "Marcelo Rebelo de Sousa",
+                    "category": "President",
+                    "origin": "Portugal"
+                  },
+                  {
+                    "value": "António Costa",
+                    "category": "Prime Minister",
+                    "origin": "Portugal"
+                  },
+                  {
+                    "value": "Tamim bin Hamad Al Thani",
+                    "category": "Emir",
+                    "origin": "Qatar"
+                  },
+                  {
+                    "value": "Mohammed bin Abdulrahman bin Jassim Al Thani",
+                    "category": "Prime Minister",
+                    "origin": "Qatar"
+                  },
+                  {
+                    "value": "Klaus Iohannis",
+                    "category": "President",
+                    "origin": "Romania"
+                  },
+                  {
+                    "value": "Marcel Ciolacu",
+                    "category": "Prime Minister",
+                    "origin": "Romania"
+                  },
+                  {
+                    "value": "Vladimir Putin",
+                    "category": "President",
+                    "origin": "Russia"
+                  },
+                  {
+                    "value": "Mikhail Mishustin",
+                    "category": "Prime Minister",
+                    "origin": "Russia"
+                  },
+                  {
+                    "value": "Paul Kagame",
+                    "category": "President",
+                    "origin": "Rwanda"
+                  },
+                  {
+                    "value": "Édouard Ngirente",
+                    "category": "Prime Minister",
+                    "origin": "Rwanda"
+                  },
+                  {
+                    "value": "Charles III",
+                    "category": "King",
+                    "origin": "Saint Kitts and Nevis"
+                  },
+                  {
+                    "value": "Samuel Weymouth Tapley Seaton",
+                    "category": "Governor-General",
+                    "origin": "Saint Kitts and Nevis"
+                  },
+                  {
+                    "value": "Timothy Harris",
+                    "category": "Prime Minister",
+                    "origin": "Saint Kitts and Nevis"
+                  },
+                  {
+                    "value": "Charles III",
+                    "category": "King",
+                    "origin": "Saint Lucia"
+                  },
+                  {
+                    "value": "Errol Charles",
+                    "category": "Governor-General",
+                    "origin": "Saint Lucia"
+                  },
+                  {
+                    "value": "Philip Pierre",
+                    "category": "Prime Minister",
+                    "origin": "Saint Lucia"
+                  },
+                  {
+                    "value": "Charles III",
+                    "category": "King",
+                    "origin": "Saint Vincent and the Grenadines"
+                  },
+                  {
+                    "value": "Susan Dougan",
+                    "category": "Governor-General",
+                    "origin": "Saint Vincent and the Grenadines"
+                  },
+                  {
+                    "value": "Ralph Gonsalves",
+                    "category": "Prime Minister",
+                    "origin": "Saint Vincent and the Grenadines"
+                  },
+                  {
+                    "value": "Tuimalealiʻifano Vaʻaletoʻa Sualauvi II",
+                    "category": "Head of State",
+                    "origin": "Samoa"
+                  },
+                  {
+                    "value": "Fiamē Naomi Mataʻafa",
+                    "category": "Prime Minister",
+                    "origin": "Samoa"
+                  },
+                  {
+                    "value": "Gian Carlo Venturini",
+                    "category": "Captain Regent",
+                    "origin": "San Marino"
+                  },
+                  {
+                    "value": "Marco Nicolini",
+                    "category": "Captain Regent",
+                    "origin": "San Marino"
+                  },
+                  {
+                    "value": "Carlos Vila Nova",
+                    "category": "President",
+                    "origin": "São Tomé and Príncipe"
+                  },
+                  {
+                    "value": "Patrice Trovoada",
+                    "category": "Prime Minister",
+                    "origin": "São Tomé and Príncipe"
+                  },
+                  {
+                    "value": "Salman bin Abdulaziz Al Saud",
+                    "category": "King",
+                    "origin": "Saudi Arabia"
+                  },
+                  {
+                    "value": "Mohammed bin Salman",
+                    "category": "Prime Minister",
+                    "origin": "Saudi Arabia"
+                  },
+                  {
+                    "value": "Macky Sall",
+                    "category": "President",
+                    "origin": "Senegal"
+                  },
+                  {
+                    "value": "Amadou Bâ",
+                    "category": "Prime Minister",
+                    "origin": "Senegal"
+                  },
+                  {
+                    "value": "Aleksandar Vučić",
+                    "category": "President",
+                    "origin": "Serbia"
+                  },
+                  {
+                    "value": "Ana Brnabić",
+                    "category": "Prime Minister",
+                    "origin": "Serbia"
+                  },
+                  {
+                    "value": "Wavel Ramkalawan",
+                    "category": "President",
+                    "origin": "Seychelles"
+                  },
+                  {
+                    "value": "Julius Maada Bio",
+                    "category": "President",
+                    "origin": "Sierra Leone"
+                  },
+                  {
+                    "value": "Tharman Shanmugaratnam",
+                    "category": "President",
+                    "origin": "Singapore"
+                  },
+                  {
+                    "value": "Lee Hsien Loong",
+                    "category": "Prime Minister",
+                    "origin": "Singapore"
+                  },
+                  {
+                    "value": "Zuzana Čaputová",
+                    "category": "President",
+                    "origin": "Slovakia"
+                  },
+                  {
+                    "value": "Eduard Heger",
+                    "category": "Prime Minister",
+                    "origin": "Slovakia"
+                  },
+                  {
+                    "value": "Nataša Pirc Musar",
+                    "category": "President",
+                    "origin": "Slovenia"
+                  },
+                  {
+                    "value": "Robert Golob",
+                    "category": "Prime Minister",
+                    "origin": "Slovenia"
+                  },
+                  {
+                    "value": "Charles III",
+                    "category": "King",
+                    "origin": "Solomon Islands"
+                  },
+                  {
+                    "value": "David Vunagi",
+                    "category": "Governor-General",
+                    "origin": "Solomon Islands"
+                  },
+                  {
+                    "value": "Manasseh Sogavare",
+                    "category": "Prime Minister",
+                    "origin": "Solomon Islands"
+                  },
+                  {
+                    "value": "Hassan Sheikh Mohamud",
+                    "category": "President",
+                    "origin": "Somalia"
+                  },
+                  {
+                    "value": "Hamza Abdi Barre",
+                    "category": "Prime Minister",
+                    "origin": "Somalia"
+                  },
+                  {
+                    "value": "Cyril Ramaphosa",
+                    "category": "President",
+                    "origin": "South Africa"
+                  },
+                  {
+                    "value": "Salva Kiir Mayardit",
+                    "category": "President",
+                    "origin": "South Sudan"
+                  },
+                  {
+                    "value": "Abdalla Hamdok",
+                    "category": "Prime Minister",
+                    "origin": "South Sudan"
+                  },
+                  {
+                    "value": "Felipe VI",
+                    "category": "King",
+                    "origin": "Spain"
+                  },
+                  {
+                    "value": "Pedro Sánchez",
+                    "category": "Prime Minister",
+                    "origin": "Spain"
+                  },
+                  {
+                    "value": "Ranil Wickremesinghe",
+                    "category": "President",
+                    "origin": "Sri Lanka"
+                  },
+                  {
+                    "value": "Dinesh Gunawardena",
+                    "category": "Prime Minister",
+                    "origin": "Sri Lanka"
+                  },
+                  {
+                    "value": "Abdel Fattah al-Burhan",
+                    "category": "Chairman of the Transitional Sovereignty Council",
+                    "origin": "Sudan"
+                  },
+                  {
+                    "value": "Mohamed Hamdan Dagalo",
+                    "category": "Prime Minister-designate",
+                    "origin": "Sudan"
+                  },
+                  {
+                    "value": "Chan Santokhi",
+                    "category": "President",
+                    "origin": "Suriname"
+                  },
+                  {
+                    "value": "Carl XVI Gustaf",
+                    "category": "King",
+                    "origin": "Sweden"
+                  },
+                  {
+                    "value": "Ulf Kristersson",
+                    "category": "Prime Minister",
+                    "origin": "Sweden"
+                  },
+                  {
+                    "value": "Alain Berset",
+                    "category": "President of the Swiss Confederation",
+                    "origin": "Switzerland"
+                  },
+                  {
+                    "value": "Bashar al-Assad",
+                    "category": "President",
+                    "origin": "Syria"
+                  },
+                  {
+                    "value": "Hussein Arnous",
+                    "category": "Prime Minister",
+                    "origin": "Syria"
+                  },
+                  {
+                    "value": "Emomali Rahmon",
+                    "category": "President",
+                    "origin": "Tajikistan"
+                  },
+                  {
+                    "value": "Kokhir Rasulzoda",
+                    "category": "Prime Minister",
+                    "origin": "Tajikistan"
+                  },
+                  {
+                    "value": "Samia Suluhu Hassan",
+                    "category": "President",
+                    "origin": "Tanzania"
+                  },
+                  {
+                    "value": "Phandu Skelemani",
+                    "category": "Prime Minister",
+                    "origin": "Tanzania"
+                  },
+                  {
+                    "value": "Vajiralongkorn",
+                    "category": "King",
+                    "origin": "Thailand"
+                  },
+                  {
+                    "value": "Srettha Thavisin",
+                    "category": "Prime Minister",
+                    "origin": "Thailand"
+                  },
+                  {
+                    "value": "Faure Gnassingbé",
+                    "category": "President",
+                    "origin": "Togo"
+                  },
+                  {
+                    "value": "Victoire Tomegah Dogbé",
+                    "category": "Prime Minister",
+                    "origin": "Togo"
+                  },
+                  {
+                    "value": "Tupou VI",
+                    "category": "King",
+                    "origin": "Tonga"
+                  },
+                  {
+                    "value": "Siaosi Sovaleni",
+                    "category": "Prime Minister",
+                    "origin": "Tonga"
+                  },
+                  {
+                    "value": "Christine Kangaloo",
+                    "category": "President",
+                    "origin": "Trinidad and Tobago"
+                  },
+                  {
+                    "value": "Keith Rowley",
+                    "category": "Prime Minister",
+                    "origin": "Trinidad and Tobago"
+                  },
+                  {
+                    "value": "Kais Saied",
+                    "category": "President",
+                    "origin": "Tunisia"
+                  },
+                  {
+                    "value": "Najla Bouden",
+                    "category": "Prime Minister",
+                    "origin": "Tunisia"
+                  },
+                  {
+                    "value": "Recep Tayyip Erdoğan",
+                    "category": "President",
+                    "origin": "Turkey"
+                  },
+                  {
+                    "value": "Serdar Berdimuhamedow",
+                    "category": "President",
+                    "origin": "Turkmenistan"
+                  },
+                  {
+                    "value": "Charles III",
+                    "category": "King",
+                    "origin": "Tuvalu"
+                  },
+                  {
+                    "value": "Tofiga Vaevalu Falani",
+                    "category": "Governor-General",
+                    "origin": "Tuvalu"
+                  },
+                  {
+                    "value": "Kausea Natano",
+                    "category": "Prime Minister",
+                    "origin": "Tuvalu"
+                  },
+                  {
+                    "value": "Yoweri Museveni",
+                    "category": "President",
+                    "origin": "Uganda"
+                  },
+                  {
+                    "value": "Volodymyr Zelenskyy",
+                    "category": "President",
+                    "origin": "Ukraine"
+                  },
+                  {
+                    "value": "Denys Shmyhal",
+                    "category": "Prime Minister",
+                    "origin": "Ukraine"
+                  },
+                  {
+                    "value": "Mohammed bin Zayed Al Nahyan",
+                    "category": "President",
+                    "origin": "United Arab Emirates"
+                  },
+                  {
+                    "value": "Mohammed bin Rashid Al Maktoum",
+                    "category": "Prime Minister",
+                    "origin": "United Arab Emirates"
+                  },
+                  {
+                    "value": "Charles III",
+                    "category": "King",
+                    "origin": "United Kingdom"
+                  },
+                  {
+                    "value": "Rishi Sunak",
+                    "category": "Prime Minister",
+                    "origin": "United Kingdom"
+                  },
+                  {
+                    "value": "Joe Biden",
+                    "category": "President",
+                    "origin": "United States"
+                  },
+                  {
+                    "value": "Luis Lacalle Pou",
+                    "category": "President",
+                    "origin": "Uruguay"
+                  },
+                  {
+                    "value": "Shavkat Mirziyoyev",
+                    "category": "President",
+                    "origin": "Uzbekistan"
+                  },
+                  {
+                    "value": "Abdulla Aripov",
+                    "category": "Prime Minister",
+                    "origin": "Uzbekistan"
+                  },
+                  {
+                    "value": "Nikenike Vurobaravu",
+                    "category": "President",
+                    "origin": "Vanuatu"
+                  },
+                  {
+                    "value": "Charlot Salwai",
+                    "category": "Prime Minister",
+                    "origin": "Vanuatu"
+                  },
+                  {
+                    "value": "Pope Francis",
+                    "category": "Head of State",
+                    "origin": "Vatican City"
+                  },
+                  {
+                    "value": "Nicolás Maduro",
+                    "category": "President",
+                    "origin": "Venezuela"
+                  },
+                  {
+                    "value": "Nguyễn Xuân Phúc",
+                    "category": "President",
+                    "origin": "Vietnam"
+                  },
+                  {
+                    "value": "Phạm Minh Chính",
+                    "category": "Prime Minister",
+                    "origin": "Vietnam"
+                  },
+                  {
+                    "value": "Mahdi al-Mashat",
+                    "category": "Chairman of the Presidential Leadership Council",
+                    "origin": "Yemen"
+                  },
+                  {
+                    "value": "Hakainde Hichilema",
+                    "category": "President",
+                    "origin": "Zambia"
+                  },
+                  {
+                    "value": "Emmerson Mnangagwa",
+                    "category": "President",
+                    "origin": "Zimbabwe"
+                  }
+            ]
+        }
+    ]
+}   
