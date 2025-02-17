@@ -1,0 +1,37 @@
+{
+    "version": 1,
+    "data": [
+        {
+            "name": "Countries",
+            "description": "List of countries 2024-08-14T13:54:54.566706",
+            "usage": 4,
+            "link": "https://raw.githubusercontent.com/ait-cs-IaaS/wordlists/master/output/countries.json",
+            "entries": [
+                {
+                    "value": "Afghanistan",
+                    "category": "Country"
+                },
+                {
+                    "value": "Aland Islands",
+                    "category": "Country"
+                },
+                {
+                    "value": "Albania",
+                    "category": "Country"
+                },
+                {
+                    "value": "Algeria",
+                    "category": "Country"
+                },
+                {
+                    "value": "American Samoa",
+                    "category": "Country"
+                },
+                {
+                    "value": "Andorra",
+                    "category": "Country"
+                }
+            ]
+        }
+    ]
+}
