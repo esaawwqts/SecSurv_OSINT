@@ -5,7 +5,7 @@
             "name": "World Leaders",
             "description": "List of world leaders as of 2025-02-05T09:05:54.566706",
             "usage": 4,
-            "link": "https://github.com/OSI727/SecSurv_OSINT/blob/main/World_Leader.json",
+            "link": "https://raw.githubusercontent.com/esaawwqts/SecSurv_OSINT/refs/heads/main/World_Leader.json",
             "entries": [
                 {
                   "value": "Hibatullah Akhundzada",
