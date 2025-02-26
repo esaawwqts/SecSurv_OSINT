@@ -12,6 +12,16 @@
                     "category": "WorldLeader",
                     "description": "Supreme Leader Afghanistan"
                 },
+                 {
+                    "value": "Sisi",
+                    "category": "WorldLeader",
+                    "description": "President Egypt1"
+                },
+                 {
+                    "value": "السيسي",
+                    "category": "WorldLeader",
+                    "description": "President Egypt_arabic"
+                },
                 {
                     "value": "Hasan Akhund",
                     "category": "WorldLeader",
