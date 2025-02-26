@@ -1,0 +1,1853 @@
+{
+    "version": 1,
+    "data": [
+        {
+            "name": "WorldLeader",
+            "description": "List of world leaders as of 2025-02-05T09:05:54.566706",
+            "usage": 4,
+            "link": "https://raw.githubusercontent.com/esaawwqts/SecSurv_OSINT/refs/heads/main/World_Leader.json",
+            "entries": [
+                {
+                    "value": "Hibatullah Akhundzada",
+                    "category": "WorldLeader",
+                    "description": "Supreme Leader Afghanistan"
+                },
+                {
+                    "value": "Hasan Akhund",
+                    "category": "WorldLeader",
+                    "description": "Acting Prime Minister Afghanistan"
+                },
+                {
+                    "value": "Bajram Begaj",
+                    "category": "WorldLeader",
+                    "description": "President Albania"
+                },
+                {
+                    "value": "Edi Rama",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Albania"
+                },
+                {
+                    "value": "Abdelmadjid Tebboune",
+                    "category": "WorldLeader",
+                    "description": "President Algeria"
+                },
+                {
+                    "value": "Nadir Larbaoui",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Algeria"
+                },
+                {
+                    "value": "Joan Enric Vives i Sicília",
+                    "category": "WorldLeader",
+                    "description": "Episcopal Co-Prince Andorra"
+                },
+                {
+                    "value": "Emmanuel Macron",
+                    "category": "WorldLeader",
+                    "description": "French Co-Prince Andorra"
+                },
+                {
+                    "value": "Xavier Espot Zamora",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Andorra"
+                },
+                {
+                    "value": "João Lourenço",
+                    "category": "WorldLeader",
+                    "description": "President Angola"
+                },
+                {
+                    "value": "Charles III",
+                    "category": "WorldLeader",
+                    "description": "King Antigua and Barbuda"
+                },
+                {
+                    "value": "Sir Rodney Williams",
+                    "category": "WorldLeader",
+                    "description": "Governor-General Antigua and Barbuda"
+                },
+                {
+                    "value": "Gaston Browne",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Antigua and Barbuda"
+                },
+                {
+                    "value": "Javier Milei",
+                    "category": "WorldLeader",
+                    "description": "President Argentina"
+                },
+                {
+                    "value": "Vahagn Khachaturyan",
+                    "category": "WorldLeader",
+                    "description": "President Armenia"
+                },
+                {
+                    "value": "Nikol Pashinyan",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Armenia"
+                },
+                {
+                    "value": "Charles III",
+                    "category": "WorldLeader",
+                    "description": "King Australia"
+                },
+                {
+                    "value": "Sam Mostyn",
+                    "category": "WorldLeader",
+                    "description": "Governor-General Australia"
+                },
+                {
+                    "value": "Anthony Albanese",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Australia"
+                },
+                {
+                    "value": "Alexander Van der Bellen",
+                    "category": "WorldLeader",
+                    "description": "President Austria"
+                },
+                {
+                    "value": "Alexander Schallenberg",
+                    "category": "WorldLeader",
+                    "description": "Acting Chancellor Austria"
+                },
+                {
+                    "value": "Ilham Aliyev",
+                    "category": "WorldLeader",
+                    "description": "President Azerbaijan"
+                },
+                {
+                    "value": "Ali Asadov",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Azerbaijan"
+                },
+                {
+                    "value": "Charles III",
+                    "category": "WorldLeader",
+                    "description": "King The Bahamas"
+                },
+                {
+                    "value": "Dame Cynthia A. Pratt",
+                    "category": "WorldLeader",
+                    "description": "Governor-General The Bahamas"
+                },
+                {
+                    "value": "Philip Davis",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister The Bahamas"
+                },
+                {
+                    "value": "Sheikh Hamad bin Isa Al Khalifa",
+                    "category": "WorldLeader",
+                    "description": "King Bahrain"
+                },
+                {
+                    "value": "Prince Salman bin Hamad Al Khalifa",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Bahrain"
+                },
+                {
+                    "value": "Mohammed Shahabuddin",
+                    "category": "WorldLeader",
+                    "description": "President Bangladesh"
+                },
+                {
+                    "value": "Muhammad Yunus",
+                    "category": "WorldLeader",
+                    "description": "Chief Adviser Bangladesh"
+                },
+                {
+                    "value": "Dame Sandra Mason",
+                    "category": "WorldLeader",
+                    "description": "President Barbados"
+                },
+                {
+                    "value": "Mia Mottley",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Barbados"
+                },
+                {
+                    "value": "Alexander Lukashenko",
+                    "category": "WorldLeader",
+                    "description": "Chairman of the All-Belarusian People's Assembly Belarus"
+                },
+                {
+                    "value": "Alexander Lukashenko",
+                    "category": "WorldLeader",
+                    "description": "President Belarus"
+                },
+                {
+                    "value": "Roman Golovchenko",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Belarus"
+                },
+                {
+                    "value": "Philippe",
+                    "category": "WorldLeader",
+                    "description": "King Belgium"
+                },
+                {
+                    "value": "Bart De Wever",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Belgium"
+                },
+                {
+                    "value": "Charles III",
+                    "category": "WorldLeader",
+                    "description": "King Belize"
+                },
+                {
+                    "value": "Dame Froyla Tzalam",
+                    "category": "WorldLeader",
+                    "description": "Governor-General Belize"
+                },
+                {
+                    "value": "Johnny Briceño",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Belize"
+                },
+                {
+                    "value": "Patrice Talon",
+                    "category": "WorldLeader",
+                    "description": "President Benin"
+                },
+                {
+                    "value": "Jigme Khesar Namgyel Wangchuck",
+                    "category": "WorldLeader",
+                    "description": "King Bhutan"
+                },
+                {
+                    "value": "Tshering Tobgay",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Bhutan"
+                },
+                {
+                    "value": "Luis Arce",
+                    "category": "WorldLeader",
+                    "description": "President Bolivia"
+                },
+                {
+                    "value": "Christian Schmidt",
+                    "category": "WorldLeader",
+                    "description": "High Representative Bosnia and Herzegovina"
+                },
+                {
+                    "value": "Borjana Krišto",
+                    "category": "WorldLeader",
+                    "description": "Chairwoman of the Council of Ministers Bosnia and Herzegovina"
+                },
+                {
+                    "value": "Željka Cvijanović",
+                    "category": "WorldLeader",
+                    "description": "Member of the Presidency Bosnia and Herzegovina"
+                },
+                {
+                    "value": "Denis Bećirović",
+                    "category": "WorldLeader",
+                    "description": "Member of the Presidency Bosnia and Herzegovina"
+                },
+                {
+                    "value": "Željko Komšić",
+                    "category": "WorldLeader",
+                    "description": "Member of the Presidency Bosnia and Herzegovina"
+                },
+                {
+                    "value": "Duma Boko",
+                    "category": "WorldLeader",
+                    "description": "President Botswana"
+                },
+                {
+                    "value": "Luiz Inácio Lula da Silva",
+                    "category": "WorldLeader",
+                    "description": "President Brazil"
+                },
+                {
+                    "value": "Hassanal Bolkiah",
+                    "category": "WorldLeader",
+                    "description": "Sultan and Prime Minister Brunei"
+                },
+                {
+                    "value": "Rumen Radev",
+                    "category": "WorldLeader",
+                    "description": "President Bulgaria"
+                },
+                {
+                    "value": "Rosen Zhelyazkov",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Bulgaria"
+                },
+                {
+                    "value": "Ibrahim Traoré",
+                    "category": "WorldLeader",
+                    "description": "President of the Patriotic Movement for Safeguard and Restoration Burkina Faso"
+                },
+                {
+                    "value": "Ibrahim Traoré",
+                    "category": "WorldLeader",
+                    "description": "Interim President Burkina Faso"
+                },
+                {
+                    "value": "Jean Emmanuel Ouédraogo",
+                    "category": "WorldLeader",
+                    "description": "Interim Prime Minister Burkina Faso"
+                },
+                {
+                    "value": "Évariste Ndayishimiye",
+                    "category": "WorldLeader",
+                    "description": "President Burundi"
+                },
+                {
+                    "value": "Gervais Ndirakobuca",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Burundi"
+                },
+                {
+                    "value": "Hun Sen",
+                    "category": "WorldLeader",
+                    "description": "President of the People's Party Cambodia"
+                },
+                {
+                    "value": "Norodom Sihamoni",
+                    "category": "WorldLeader",
+                    "description": "King Cambodia"
+                },
+                {
+                    "value": "Hun Manet",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Cambodia"
+                },
+                {
+                    "value": "Paul Biya",
+                    "category": "WorldLeader",
+                    "description": "President Cameroon"
+                },
+                {
+                    "value": "Joseph Ngute",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Cameroon"
+                },
+                {
+                    "value": "Charles III",
+                    "category": "WorldLeader",
+                    "description": "King Canada"
+                },
+                {
+                    "value": "Mary Simon",
+                    "category": "WorldLeader",
+                    "description": "Governor-General Canada"
+                },
+                {
+                    "value": "Justin Trudeau",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Canada"
+                },
+                {
+                    "value": "José Maria Neves",
+                    "category": "WorldLeader",
+                    "description": "President Cape Verde"
+                },
+                {
+                    "value": "Ulisses Correia e Silva",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Cape Verde"
+                },
+                {
+                    "value": "Faustin-Archange Touadéra",
+                    "category": "WorldLeader",
+                    "description": "President Central African Republic"
+                },
+                {
+                    "value": "Félix Moloua",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Central African Republic"
+                },
+                {
+                    "value": "Mahamat Déby",
+                    "category": "WorldLeader",
+                    "description": "President Chad"
+                },
+                {
+                    "value": "Allamaye Halina",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Chad"
+                },
+                {
+                    "value": "Gabriel Boric",
+                    "category": "WorldLeader",
+                    "description": "President Chile"
+                },
+                {
+                    "value": "Xi Jinping",
+                    "category": "WorldLeader",
+                    "description": "General Secretary of the Communist Party China"
+                },
+                {
+                    "value": "Xi Jinping",
+                    "category": "WorldLeader",
+                    "description": "President China"
+                },
+                {
+                    "value": "Li Qiang",
+                    "category": "WorldLeader",
+                    "description": "Premier China"
+                },
+                {
+                    "value": "Gustavo Petro",
+                    "category": "WorldLeader",
+                    "description": "President Colombia"
+                },
+                {
+                    "value": "Azali Assoumani",
+                    "category": "WorldLeader",
+                    "description": "President Comoros"
+                },
+                {
+                    "value": "Félix Tshisekedi",
+                    "category": "WorldLeader",
+                    "description": "President Congo, Democratic Republic of"
+                },
+                {
+                    "value": "Judith Suminwa",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Congo, Democratic Republic of"
+                },
+                {
+                    "value": "Denis Sassou Nguesso",
+                    "category": "WorldLeader",
+                    "description": "President Congo, Republic of"
+                },
+                {
+                    "value": "Anatole Collinet Makosso",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Congo, Republic of"
+                },
+                {
+                    "value": "Rodrigo Chaves Robles",
+                    "category": "WorldLeader",
+                    "description": "President Costa Rica"
+                },
+                {
+                    "value": "Zoran Milanović",
+                    "category": "WorldLeader",
+                    "description": "President Croatia"
+                },
+                {
+                    "value": "Andrej Plenković",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Croatia"
+                },
+                {
+                    "value": "Miguel Díaz-Canel",
+                    "category": "WorldLeader",
+                    "description": "First Secretary of the Communist Party Cuba"
+                },
+                {
+                    "value": "Miguel Díaz-Canel",
+                    "category": "WorldLeader",
+                    "description": "President Cuba"
+                },
+                {
+                    "value": "Manuel Marrero Cruz",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Cuba"
+                },
+                {
+                    "value": "Nikos Christodoulides",
+                    "category": "WorldLeader",
+                    "description": "President Cyprus"
+                },
+                {
+                    "value": "Petr Pavel",
+                    "category": "WorldLeader",
+                    "description": "President Czech Republic"
+                },
+                {
+                    "value": "Petr Fiala",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Czech Republic"
+                },
+                {
+                    "value": "Frederik X",
+                    "category": "WorldLeader",
+                    "description": "King Denmark"
+                },
+                {
+                    "value": "Mette Frederiksen",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Denmark"
+                },
+                {
+                    "value": "Ismaïl Omar Guelleh",
+                    "category": "WorldLeader",
+                    "description": "President Djibouti"
+                },
+                {
+                    "value": "Abdoulkader Kamil Mohamed",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Djibouti"
+                },
+                {
+                    "value": "Sylvanie Burton",
+                    "category": "WorldLeader",
+                    "description": "President Dominica"
+                },
+                {
+                    "value": "Roosevelt Skerrit",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Dominica"
+                },
+                {
+                    "value": "Luis Abinader",
+                    "category": "WorldLeader",
+                    "description": "President Dominican Republic"
+                },
+                {
+                    "value": "José Ramos-Horta",
+                    "category": "WorldLeader",
+                    "description": "President East Timor"
+                },
+                {
+                    "value": "Xanana Gusmão",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister East Timor"
+                },
+                {
+                    "value": "Daniel Noboa",
+                    "category": "WorldLeader",
+                    "description": "President Ecuador"
+                },
+                {
+                    "value": "Abdel Fattah el-Sisi",
+                    "category": "WorldLeader",
+                    "description": "President Egypt"
+                },
+                {
+                    "value": "Mostafa Madbouly",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Egypt"
+                },
+                {
+                    "value": "Nayib Bukele",
+                    "category": "WorldLeader",
+                    "description": "President El Salvador"
+                },
+                {
+                    "value": "Teodoro Obiang Nguema Mbasogo",
+                    "category": "WorldLeader",
+                    "description": "President Equatorial Guinea"
+                },
+                {
+                    "value": "Manuel Osa Nsue Nsua",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Equatorial Guinea"
+                },
+                {
+                    "value": "Isaias Afwerki",
+                    "category": "WorldLeader",
+                    "description": "President Eritrea"
+                },
+                {
+                    "value": "Alar Karis",
+                    "category": "WorldLeader",
+                    "description": "President Estonia"
+                },
+                {
+                    "value": "Kristen Michal",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Estonia"
+                },
+                {
+                    "value": "Mswati III",
+                    "category": "WorldLeader",
+                    "description": "Ngwenyama Eswatini"
+                },
+                {
+                    "value": "Ntfombi",
+                    "category": "WorldLeader",
+                    "description": "Ndlovukati Eswatini"
+                },
+                {
+                    "value": "Abiy Ahmed",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Ethiopia"
+                },
+                {
+                    "value": "Taye Atske Selassie",
+                    "category": "WorldLeader",
+                    "description": "President Ethiopia"
+                },
+                {
+                    "value": "Ratu Naiqama Lalabalavu",
+                    "category": "WorldLeader",
+                    "description": "President Fiji"
+                },
+                {
+                    "value": "Sitiveni Rabuka",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Fiji"
+                },
+                {
+                    "value": "Alexander Stubb",
+                    "category": "WorldLeader",
+                    "description": "President Finland"
+                },
+                {
+                    "value": "Petteri Orpo",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Finland"
+                },
+                {
+                    "value": "Emmanuel Macron",
+                    "category": "WorldLeader",
+                    "description": "President France"
+                },
+                {
+                    "value": "François Bayrou",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister France"
+                },
+                {
+                    "value": "Brice Oligui Nguema",
+                    "category": "WorldLeader",
+                    "description": "Chairman of the Committee for the Transition and Restoration of Institutions Gabon"
+                },
+                {
+                    "value": "Brice Oligui Nguema",
+                    "category": "WorldLeader",
+                    "description": "Transitional President Gabon"
+                },
+                {
+                    "value": "Raymond Ndong Sima",
+                    "category": "WorldLeader",
+                    "description": "Interim Prime Minister Gabon"
+                },
+                {
+                    "value": "Adama Barrow",
+                    "category": "WorldLeader",
+                    "description": "President The Gambia"
+                },
+                {
+                    "value": "Mikheil Kavelashvili",
+                    "category": "WorldLeader",
+                    "description": "President Georgia"
+                },
+                {
+                    "value": "Irakli Kobakhidze",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Georgia"
+                },
+                {
+                    "value": "Frank-Walter Steinmeier",
+                    "category": "WorldLeader",
+                    "description": "President Germany"
+                },
+                {
+                    "value": "Olaf Scholz",
+                    "category": "WorldLeader",
+                    "description": "Chancellor Germany"
+                },
+                {
+                    "value": "John Mahama",
+                    "category": "WorldLeader",
+                    "description": "President Ghana"
+                },
+                {
+                    "value": "Katerina Sakellaropoulou",
+                    "category": "WorldLeader",
+                    "description": "President Greece"
+                },
+                {
+                    "value": "Kyriakos Mitsotakis",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Greece"
+                },
+                {
+                    "value": "Charles III",
+                    "category": "WorldLeader",
+                    "description": "King Grenada"
+                },
+                {
+                    "value": "Dame Cécile La Grenade",
+                    "category": "WorldLeader",
+                    "description": "Governor-General Grenada"
+                },
+                {
+                    "value": "Dickon Mitchell",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Grenada"
+                },
+                {
+                    "value": "Bernardo Arévalo",
+                    "category": "WorldLeader",
+                    "description": "President Guatemala"
+                },
+                {
+                    "value": "Mamady Doumbouya",
+                    "category": "WorldLeader",
+                    "description": "Interim President Guinea"
+                },
+                {
+                    "value": "Bah Oury",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Guinea"
+                },
+                {
+                    "value": "Umaro Sissoco Embaló",
+                    "category": "WorldLeader",
+                    "description": "President Guinea-Bissau"
+                },
+                {
+                    "value": "Rui Duarte de Barros",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Guinea-Bissau"
+                },
+                {
+                    "value": "Irfaan Ali",
+                    "category": "WorldLeader",
+                    "description": "President Guyana"
+                },
+                {
+                    "value": "Mark Phillips",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Guyana"
+                },
+                {
+                    "value": "Leslie Voltaire",
+                    "category": "WorldLeader",
+                    "description": "President Haiti"
+                },
+                {
+                    "value": "Alix Didier Fils-Aimé",
+                    "category": "WorldLeader",
+                    "description": "Acting Prime Minister Haiti"
+                },
+                {
+                    "value": "Xiomara Castro",
+                    "category": "WorldLeader",
+                    "description": "President Honduras"
+                },
+                {
+                    "value": "Tamás Sulyok",
+                    "category": "WorldLeader",
+                    "description": "President Hungary"
+                },
+                {
+                    "value": "Viktor Orbán",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Hungary"
+                },
+                {
+                    "value": "Halla Tómasdóttir",
+                    "category": "WorldLeader",
+                    "description": "President Iceland"
+                },
+                {
+                    "value": "Kristrún Frostadóttir",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Iceland"
+                },
+                {
+                    "value": "Droupadi Murmu",
+                    "category": "WorldLeader",
+                    "description": "President India"
+                },
+                {
+                    "value": "Narendra Modi",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister India"
+                },
+                {
+                    "value": "Prabowo Subianto",
+                    "category": "WorldLeader",
+                    "description": "President Indonesia"
+                },
+                {
+                    "value": "Ali Khamenei",
+                    "category": "WorldLeader",
+                    "description": "Supreme Leader Iran"
+                },
+                {
+                    "value": "Masoud Pezeshkian",
+                    "category": "WorldLeader",
+                    "description": "President Iran"
+                },
+                {
+                    "value": "Abdul Latif Rashid",
+                    "category": "WorldLeader",
+                    "description": "President Iraq"
+                },
+                {
+                    "value": "Mohammed Shia' Al Sudani",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Iraq"
+                },
+                {
+                    "value": "Michael D. Higgins",
+                    "category": "WorldLeader",
+                    "description": "President Ireland"
+                },
+                {
+                    "value": "Micheál Martin",
+                    "category": "WorldLeader",
+                    "description": "Taoiseach Ireland"
+                },
+                {
+                    "value": "Isaac Herzog",
+                    "category": "WorldLeader",
+                    "description": "President Israel"
+                },
+                {
+                    "value": "Benjamin Netanyahu",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Israel"
+                },
+                {
+                    "value": "Sergio Mattarella",
+                    "category": "WorldLeader",
+                    "description": "President Italy"
+                },
+                {
+                    "value": "Giorgia Meloni",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Italy"
+                },
+                {
+                    "value": "Alassane Ouattara",
+                    "category": "WorldLeader",
+                    "description": "President Ivory Coast"
+                },
+                {
+                    "value": "Robert Beugré Mambé",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Ivory Coast"
+                },
+                {
+                    "value": "Charles III",
+                    "category": "WorldLeader",
+                    "description": "King Jamaica"
+                },
+                {
+                    "value": "Sir Patrick Allen",
+                    "category": "WorldLeader",
+                    "description": "Governor-General Jamaica"
+                },
+                {
+                    "value": "Andrew Holness",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Jamaica"
+                },
+                {
+                    "value": "Naruhito",
+                    "category": "WorldLeader",
+                    "description": "Emperor Japan"
+                },
+                {
+                    "value": "Shigeru Ishiba",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Japan"
+                },
+                {
+                    "value": "Abdullah II",
+                    "category": "WorldLeader",
+                    "description": "King Jordan"
+                },
+                {
+                    "value": "Jafar Hassan",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Jordan"
+                },
+                {
+                    "value": "Kassym-Jomart Tokayev",
+                    "category": "WorldLeader",
+                    "description": "President Kazakhstan"
+                },
+                {
+                    "value": "Oljas Bektenov",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Kazakhstan"
+                },
+                {
+                    "value": "William Ruto",
+                    "category": "WorldLeader",
+                    "description": "President Kenya"
+                },
+                {
+                    "value": "Taneti Maamau",
+                    "category": "WorldLeader",
+                    "description": "President Kiribati"
+                },
+                {
+                    "value": "Sheikh Mishal Al-Ahmad Al-Jaber Al-Sabah",
+                    "category": "WorldLeader",
+                    "description": "Emir Kuwait"
+                },
+                {
+                    "value": "Ahmad Al-Abdullah Al-Sabah",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Kuwait"
+                },
+                {
+                    "value": "Sadyr Japarov",
+                    "category": "WorldLeader",
+                    "description": "President Kyrgyzstan"
+                },
+                {
+                    "value": "Adylbek Kasymaliev",
+                    "category": "WorldLeader",
+                    "description": "Chairman of the Cabinet of Ministers Kyrgyzstan"
+                },
+                {
+                    "value": "Thongloun Sisoulith",
+                    "category": "WorldLeader",
+                    "description": "General Secretary of the People’s Revolutionary Party Laos"
+                },
+                {
+                    "value": "Thongloun Sisoulith",
+                    "category": "WorldLeader",
+                    "description": "President Laos"
+                },
+                {
+                    "value": "Sonexay Siphandone",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Laos"
+                },
+                {
+                    "value": "Edgars Rinkēvičs",
+                    "category": "WorldLeader",
+                    "description": "President Latvia"
+                },
+                {
+                    "value": "Evika Siliņa",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Latvia"
+                },
+                {
+                    "value": "Joseph Aoun",
+                    "category": "WorldLeader",
+                    "description": "President Lebanon"
+                },
+                {
+                    "value": "Najib Mikati",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Lebanon"
+                },
+                {
+                    "value": "Joseph Aoun",
+                    "category": "WorldLeader",
+                    "description": "President Lebanon"
+                },
+                {
+                    "value": "Nawaf Salam",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister-designate Lebanon"
+                },
+                {
+                    "value": "Letsie III",
+                    "category": "WorldLeader",
+                    "description": "King Lesotho"
+                },
+                {
+                    "value": "Sam Matekane",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Lesotho"
+                },
+                {
+                    "value": "Joseph Boakai",
+                    "category": "WorldLeader",
+                    "description": "President Liberia"
+                },
+                {
+                    "value": "Mohamed al-Menfi",
+                    "category": "WorldLeader",
+                    "description": "Chairman of the Presidential Council Libya"
+                },
+                {
+                    "value": "Abdul Hamid Dbeibeh",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Libya"
+                },
+                {
+                    "value": "Hans-Adam II",
+                    "category": "WorldLeader",
+                    "description": "Prince Regnant Liechtenstein"
+                },
+                {
+                    "value": "Alois",
+                    "category": "WorldLeader",
+                    "description": "Regent (Hereditary Prince) Liechtenstein"
+                },
+                {
+                    "value": "Gitanas Nausėda",
+                    "category": "WorldLeader",
+                    "description": "President Lithuania"
+                },
+                {
+                    "value": "Gintautas Paluckas",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Lithuania"
+                },
+                {
+                    "value": "Henri",
+                    "category": "WorldLeader",
+                    "description": "Grand Duke Luxembourg"
+                },
+                {
+                    "value": "Guillaume",
+                    "category": "WorldLeader",
+                    "description": "Lieutenant-Representative Luxembourg"
+                },
+                {
+                    "value": "Luc Frieden",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Luxembourg"
+                },
+                {
+                    "value": "Andry Rajoelina",
+                    "category": "WorldLeader",
+                    "description": "President Madagascar"
+                },
+                {
+                    "value": "Christian Ntsay",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Madagascar"
+                },
+                {
+                    "value": "Lazarus Chakwera",
+                    "category": "WorldLeader",
+                    "description": "President Malawi"
+                },
+                {
+                    "value": "Ibrahim Iskandar",
+                    "category": "WorldLeader",
+                    "description": "Yang di-Pertuan Agong Malaysia"
+                },
+                {
+                    "value": "Anwar Ibrahim",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Malaysia"
+                },
+                {
+                    "value": "Mohamed Muizzu",
+                    "category": "WorldLeader",
+                    "description": "President Maldives"
+                },
+                {
+                    "value": "Assimi Goïta",
+                    "category": "WorldLeader",
+                    "description": "Interim President Mali"
+                },
+                {
+                    "value": "Abdoulaye Maïga",
+                    "category": "WorldLeader",
+                    "description": "Interim Prime Minister Mali"
+                },
+                {
+                    "value": "Myriam Spiteri Debono",
+                    "category": "WorldLeader",
+                    "description": "President Malta"
+                },
+                {
+                    "value": "Robert Abela",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Malta"
+                },
+                {
+                    "value": "Hilda Heine",
+                    "category": "WorldLeader",
+                    "description": "President Marshall Islands"
+                },
+                {
+                    "value": "Mohamed Ould Ghazouani",
+                    "category": "WorldLeader",
+                    "description": "President Mauritania"
+                },
+                {
+                    "value": "Mokhtar Ould Djay",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Mauritania"
+                },
+                {
+                    "value": "Dharam Gokhool",
+                    "category": "WorldLeader",
+                    "description": "President Mauritius"
+                },
+                {
+                    "value": "Navin Ramgoolam",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Mauritius"
+                },
+                {
+                    "value": "Claudia Sheinbaum",
+                    "category": "WorldLeader",
+                    "description": "President Mexico"
+                },
+                {
+                    "value": "Wesley Simina",
+                    "category": "WorldLeader",
+                    "description": "President Micronesia, Federated States of"
+                },
+                {
+                    "value": "Maia Sandu",
+                    "category": "WorldLeader",
+                    "description": "President Moldova"
+                },
+                {
+                    "value": "Dorin Recean",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Moldova"
+                },
+                {
+                    "value": "Albert II",
+                    "category": "WorldLeader",
+                    "description": "Sovereign Prince Monaco"
+                },
+                {
+                    "value": "Isabelle Berro-Amadeï",
+                    "category": "WorldLeader",
+                    "description": "Acting Minister of State Monaco"
+                },
+                {
+                    "value": "Ukhnaagiin Khürelsükh",
+                    "category": "WorldLeader",
+                    "description": "President Mongolia"
+                },
+                {
+                    "value": "Luvsannamsrain Oyun-Erdene",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Mongolia"
+                },
+                {
+                    "value": "Jakov Milatović",
+                    "category": "WorldLeader",
+                    "description": "President Montenegro"
+                },
+                {
+                    "value": "Milojko Spajić",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Montenegro"
+                },
+                {
+                    "value": "Mohammed VI",
+                    "category": "WorldLeader",
+                    "description": "King Morocco"
+                },
+                {
+                    "value": "Aziz Akhannouch",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Morocco"
+                },
+                {
+                    "value": "Daniel Chapo",
+                    "category": "WorldLeader",
+                    "description": "President Mozambique"
+                },
+                {
+                    "value": "Maria Benvinda Levy",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Mozambique"
+                },
+                {
+                    "value": "Min Aung Hlaing",
+                    "category": "WorldLeader",
+                    "description": "Chairman of the State Administration Council Myanmar"
+                },
+                {
+                    "value": "Min Aung Hlaing",
+                    "category": "WorldLeader",
+                    "description": "Acting President Myanmar"
+                },
+                {
+                    "value": "Min Aung Hlaing",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Myanmar"
+                },
+                {
+                    "value": "Nangolo Mbumba",
+                    "category": "WorldLeader",
+                    "description": "President Namibia"
+                },
+                {
+                    "value": "Saara Kuugongelwa",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Namibia"
+                },
+                {
+                    "value": "Netumbo Nandi-Ndaitwah",
+                    "category": "WorldLeader",
+                    "description": "President-elect Namibia"
+                },
+                {
+                    "value": "David Adeang",
+                    "category": "WorldLeader",
+                    "description": "President Nauru"
+                },
+                {
+                    "value": "Ram Chandra Poudel",
+                    "category": "WorldLeader",
+                    "description": "President Nepal"
+                },
+                {
+                    "value": "K. P. Sharma Oli",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Nepal"
+                },
+                {
+                    "value": "Willem-Alexander",
+                    "category": "WorldLeader",
+                    "description": "King Netherlands"
+                },
+                {
+                    "value": "Dick Schoof",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Netherlands"
+                },
+                {
+                    "value": "Charles III",
+                    "category": "WorldLeader",
+                    "description": "King New Zealand"
+                },
+                {
+                    "value": "Dame Cindy Kiro",
+                    "category": "WorldLeader",
+                    "description": "Governor-General New Zealand"
+                },
+                {
+                    "value": "Christopher Luxon",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister New Zealand"
+                },
+                {
+                    "value": "Daniel Ortega",
+                    "category": "WorldLeader",
+                    "description": "Co-President Nicaragua"
+                },
+                {
+                    "value": "Rosario Murillo",
+                    "category": "WorldLeader",
+                    "description": "Co-President Nicaragua"
+                },
+                {
+                    "value": "Abdourahamane Tchiani",
+                    "category": "WorldLeader",
+                    "description": "President of the National Council for the Safeguard of the Homeland Niger"
+                },
+                {
+                    "value": "Ali Lamine Zeine",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Niger"
+                },
+                {
+                    "value": "Bola Tinubu",
+                    "category": "WorldLeader",
+                    "description": "President Nigeria"
+                },
+                {
+                    "value": "Kim Jong Un",
+                    "category": "WorldLeader",
+                    "description": "General Secretary of the Workers' Party North Korea"
+                },
+                {
+                    "value": "Kim Jong Un",
+                    "category": "WorldLeader",
+                    "description": "President of the State Affairs Commission North Korea"
+                },
+                {
+                    "value": "Pak Thae-song",
+                    "category": "WorldLeader",
+                    "description": "Premier North Korea"
+                },
+                {
+                    "value": "Gordana Siljanovska-Davkova",
+                    "category": "WorldLeader",
+                    "description": "President North Macedonia"
+                },
+                {
+                    "value": "Hristijan Mickoski",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister North Macedonia"
+                },
+                {
+                    "value": "Harald V",
+                    "category": "WorldLeader",
+                    "description": "King Norway"
+                },
+                {
+                    "value": "Jonas Gahr Støre",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Norway"
+                },
+                {
+                    "value": "Haitham bin Tariq",
+                    "category": "WorldLeader",
+                    "description": "Sultan and Prime Minister Oman"
+                },
+                {
+                    "value": "Asif Ali Zardari",
+                    "category": "WorldLeader",
+                    "description": "President Pakistan"
+                },
+                {
+                    "value": "Shehbaz Sharif",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Pakistan"
+                },
+                {
+                    "value": "Surangel Whipps Jr.",
+                    "category": "WorldLeader",
+                    "description": "President Palau"
+                },
+                {
+                    "value": "Mahmoud Abbas",
+                    "category": "WorldLeader",
+                    "description": "President Palestine"
+                },
+                {
+                    "value": "Mohammad Mustafa",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Palestine"
+                },
+                {
+                    "value": "José Raúl Mulino",
+                    "category": "WorldLeader",
+                    "description": "President Panama"
+                },
+                {
+                    "value": "Charles III",
+                    "category": "WorldLeader",
+                    "description": "King Papua New Guinea"
+                },
+                {
+                    "value": "Sir Bob Dadae",
+                    "category": "WorldLeader",
+                    "description": "Governor-General Papua New Guinea"
+                },
+                {
+                    "value": "James Marape",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Papua New Guinea"
+                },
+                {
+                    "value": "Santiago Peña",
+                    "category": "WorldLeader",
+                    "description": "President Paraguay"
+                },
+                {
+                    "value": "Dina Boluarte",
+                    "category": "WorldLeader",
+                    "description": "President Peru"
+                },
+                {
+                    "value": "Gustavo Adrianzén",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Peru"
+                },
+                {
+                    "value": "Bongbong Marcos",
+                    "category": "WorldLeader",
+                    "description": "President Philippines"
+                },
+                {
+                    "value": "Andrzej Duda",
+                    "category": "WorldLeader",
+                    "description": "President Poland"
+                },
+                {
+                    "value": "Donald Tusk",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Poland"
+                },
+                {
+                    "value": "Marcelo Rebelo de Sousa",
+                    "category": "WorldLeader",
+                    "description": "President Portugal"
+                },
+                {
+                    "value": "António Costa",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Portugal"
+                },
+                {
+                    "value": "Tamim bin Hamad Al Thani",
+                    "category": "WorldLeader",
+                    "description": "Emir Qatar"
+                },
+                {
+                    "value": "Mohammed bin Abdulrahman bin Jassim Al Thani",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Qatar"
+                },
+                {
+                    "value": "Klaus Iohannis",
+                    "category": "WorldLeader",
+                    "description": "President Romania"
+                },
+                {
+                    "value": "Marcel Ciolacu",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Romania"
+                },
+                {
+                    "value": "Vladimir Putin",
+                    "category": "WorldLeader",
+                    "description": "President Russia"
+                },
+                {
+                    "value": "Mikhail Mishustin",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Russia"
+                },
+                {
+                    "value": "Paul Kagame",
+                    "category": "WorldLeader",
+                    "description": "President Rwanda"
+                },
+                {
+                    "value": "Édouard Ngirente",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Rwanda"
+                },
+                {
+                    "value": "Charles III",
+                    "category": "WorldLeader",
+                    "description": "King Saint Kitts and Nevis"
+                },
+                {
+                    "value": "Samuel Weymouth Tapley Seaton",
+                    "category": "WorldLeader",
+                    "description": "Governor-General Saint Kitts and Nevis"
+                },
+                {
+                    "value": "Timothy Harris",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Saint Kitts and Nevis"
+                },
+                {
+                    "value": "Charles III",
+                    "category": "WorldLeader",
+                    "description": "King Saint Lucia"
+                },
+                {
+                    "value": "Errol Charles",
+                    "category": "WorldLeader",
+                    "description": "Governor-General Saint Lucia"
+                },
+                {
+                    "value": "Philip Pierre",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Saint Lucia"
+                },
+                {
+                    "value": "Charles III",
+                    "category": "WorldLeader",
+                    "description": "King Saint Vincent and the Grenadines"
+                },
+                {
+                    "value": "Susan Dougan",
+                    "category": "WorldLeader",
+                    "description": "Governor-General Saint Vincent and the Grenadines"
+                },
+                {
+                    "value": "Ralph Gonsalves",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Saint Vincent and the Grenadines"
+                },
+                {
+                    "value": "Tuimalealiʻifano Vaʻaletoʻa Sualauvi II",
+                    "category": "WorldLeader",
+                    "description": "Head of State Samoa"
+                },
+                {
+                    "value": "Fiamē Naomi Mataʻafa",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Samoa"
+                },
+                {
+                    "value": "Gian Carlo Venturini",
+                    "category": "WorldLeader",
+                    "description": "Captain Regent San Marino"
+                },
+                {
+                    "value": "Marco Nicolini",
+                    "category": "WorldLeader",
+                    "description": "Captain Regent San Marino"
+                },
+                {
+                    "value": "Carlos Vila Nova",
+                    "category": "WorldLeader",
+                    "description": "President São Tomé and Príncipe"
+                },
+                {
+                    "value": "Patrice Trovoada",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister São Tomé and Príncipe"
+                },
+                {
+                    "value": "Salman bin Abdulaziz Al Saud",
+                    "category": "WorldLeader",
+                    "description": "King Saudi Arabia"
+                },
+                {
+                    "value": "Mohammed bin Salman",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Saudi Arabia"
+                },
+                {
+                    "value": "Macky Sall",
+                    "category": "WorldLeader",
+                    "description": "President Senegal"
+                },
+                {
+                    "value": "Amadou Bâ",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Senegal"
+                },
+                {
+                    "value": "Aleksandar Vučić",
+                    "category": "WorldLeader",
+                    "description": "President Serbia"
+                },
+                {
+                    "value": "Ana Brnabić",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Serbia"
+                },
+                {
+                    "value": "Wavel Ramkalawan",
+                    "category": "WorldLeader",
+                    "description": "President Seychelles"
+                },
+                {
+                    "value": "Julius Maada Bio",
+                    "category": "WorldLeader",
+                    "description": "President Sierra Leone"
+                },
+                {
+                    "value": "Tharman Shanmugaratnam",
+                    "category": "WorldLeader",
+                    "description": "President Singapore"
+                },
+                {
+                    "value": "Lee Hsien Loong",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Singapore"
+                },
+                {
+                    "value": "Zuzana Čaputová",
+                    "category": "WorldLeader",
+                    "description": "President Slovakia"
+                },
+                {
+                    "value": "Eduard Heger",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Slovakia"
+                },
+                {
+                    "value": "Nataša Pirc Musar",
+                    "category": "WorldLeader",
+                    "description": "President Slovenia"
+                },
+                {
+                    "value": "Robert Golob",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Slovenia"
+                },
+                {
+                    "value": "Charles III",
+                    "category": "WorldLeader",
+                    "description": "King Solomon Islands"
+                },
+                {
+                    "value": "David Vunagi",
+                    "category": "WorldLeader",
+                    "description": "Governor-General Solomon Islands"
+                },
+                {
+                    "value": "Manasseh Sogavare",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Solomon Islands"
+                },
+                {
+                    "value": "Hassan Sheikh Mohamud",
+                    "category": "WorldLeader",
+                    "description": "President Somalia"
+                },
+                {
+                    "value": "Hamza Abdi Barre",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Somalia"
+                },
+                {
+                    "value": "Cyril Ramaphosa",
+                    "category": "WorldLeader",
+                    "description": "President South Africa"
+                },
+                {
+                    "value": "Salva Kiir Mayardit",
+                    "category": "WorldLeader",
+                    "description": "President South Sudan"
+                },
+                {
+                    "value": "Abdalla Hamdok",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister South Sudan"
+                },
+                {
+                    "value": "Felipe VI",
+                    "category": "WorldLeader",
+                    "description": "King Spain"
+                },
+                {
+                    "value": "Pedro Sánchez",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Spain"
+                },
+                {
+                    "value": "Ranil Wickremesinghe",
+                    "category": "WorldLeader",
+                    "description": "President Sri Lanka"
+                },
+                {
+                    "value": "Dinesh Gunawardena",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Sri Lanka"
+                },
+                {
+                    "value": "Abdel Fattah al-Burhan",
+                    "category": "WorldLeader",
+                    "description": "Chairman of the Transitional Sovereignty Council Sudan"
+                },
+                {
+                    "value": "Mohamed Hamdan Dagalo",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister-designate Sudan"
+                },
+                {
+                    "value": "Chan Santokhi",
+                    "category": "WorldLeader",
+                    "description": "President Suriname"
+                },
+                {
+                    "value": "Carl XVI Gustaf",
+                    "category": "WorldLeader",
+                    "description": "King Sweden"
+                },
+                {
+                    "value": "Ulf Kristersson",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Sweden"
+                },
+                {
+                    "value": "Alain Berset",
+                    "category": "WorldLeader",
+                    "description": "President of the Swiss Confederation Switzerland"
+                },
+                {
+                    "value": "Bashar al-Assad",
+                    "category": "WorldLeader",
+                    "description": "President Syria"
+                },
+                {
+                    "value": "Hussein Arnous",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Syria"
+                },
+                {
+                    "value": "Emomali Rahmon",
+                    "category": "WorldLeader",
+                    "description": "President Tajikistan"
+                },
+                {
+                    "value": "Kokhir Rasulzoda",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Tajikistan"
+                },
+                {
+                    "value": "Samia Suluhu Hassan",
+                    "category": "WorldLeader",
+                    "description": "President Tanzania"
+                },
+                {
+                    "value": "Phandu Skelemani",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Tanzania"
+                },
+                {
+                    "value": "Vajiralongkorn",
+                    "category": "WorldLeader",
+                    "description": "King Thailand"
+                },
+                {
+                    "value": "Srettha Thavisin",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Thailand"
+                },
+                {
+                    "value": "Faure Gnassingbé",
+                    "category": "WorldLeader",
+                    "description": "President Togo"
+                },
+                {
+                    "value": "Victoire Tomegah Dogbé",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Togo"
+                },
+                {
+                    "value": "Tupou VI",
+                    "category": "WorldLeader",
+                    "description": "King Tonga"
+                },
+                {
+                    "value": "Siaosi Sovaleni",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Tonga"
+                },
+                {
+                    "value": "Christine Kangaloo",
+                    "category": "WorldLeader",
+                    "description": "President Trinidad and Tobago"
+                },
+                {
+                    "value": "Keith Rowley",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Trinidad and Tobago"
+                },
+                {
+                    "value": "Kais Saied",
+                    "category": "WorldLeader",
+                    "description": "President Tunisia"
+                },
+                {
+                    "value": "Najla Bouden",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Tunisia"
+                },
+                {
+                    "value": "Recep Tayyip Erdoğan",
+                    "category": "WorldLeader",
+                    "description": "President Turkey"
+                },
+                {
+                    "value": "Serdar Berdimuhamedow",
+                    "category": "WorldLeader",
+                    "description": "President Turkmenistan"
+                },
+                {
+                    "value": "Charles III",
+                    "category": "WorldLeader",
+                    "description": "King Tuvalu"
+                },
+                {
+                    "value": "Tofiga Vaevalu Falani",
+                    "category": "WorldLeader",
+                    "description": "Governor-General Tuvalu"
+                },
+                {
+                    "value": "Kausea Natano",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Tuvalu"
+                },
+                {
+                    "value": "Yoweri Museveni",
+                    "category": "WorldLeader",
+                    "description": "President Uganda"
+                },
+                {
+                    "value": "Volodymyr Zelenskyy",
+                    "category": "WorldLeader",
+                    "description": "President Ukraine"
+                },
+                {
+                    "value": "Denys Shmyhal",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Ukraine"
+                },
+                {
+                    "value": "Mohammed bin Zayed Al Nahyan",
+                    "category": "WorldLeader",
+                    "description": "President United Arab Emirates"
+                },
+                {
+                    "value": "Mohammed bin Rashid Al Maktoum",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister United Arab Emirates"
+                },
+                {
+                    "value": "Charles III",
+                    "category": "WorldLeader",
+                    "description": "King United Kingdom"
+                },
+                {
+                    "value": "Rishi Sunak",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister United Kingdom"
+                },
+                {
+                    "value": "Joe Biden",
+                    "category": "WorldLeader",
+                    "description": "President United States"
+                },
+                {
+                    "value": "Luis Lacalle Pou",
+                    "category": "WorldLeader",
+                    "description": "President Uruguay"
+                },
+                {
+                    "value": "Shavkat Mirziyoyev",
+                    "category": "WorldLeader",
+                    "description": "President Uzbekistan"
+                },
+                {
+                    "value": "Abdulla Aripov",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Uzbekistan"
+                },
+                {
+                    "value": "Nikenike Vurobaravu",
+                    "category": "WorldLeader",
+                    "description": "President Vanuatu"
+                },
+                {
+                    "value": "Charlot Salwai",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Vanuatu"
+                },
+                {
+                    "value": "Pope Francis",
+                    "category": "WorldLeader",
+                    "description": "Head of State Vatican City"
+                },
+                {
+                    "value": "Nicolás Maduro",
+                    "category": "WorldLeader",
+                    "description": "President Venezuela"
+                },
+                {
+                    "value": "Nguyễn Xuân Phúc",
+                    "category": "WorldLeader",
+                    "description": "President Vietnam"
+                },
+                {
+                    "value": "Phạm Minh Chính",
+                    "category": "WorldLeader",
+                    "description": "Prime Minister Vietnam"
+                },
+                {
+                    "value": "Mahdi al-Mashat",
+                    "category": "WorldLeader",
+                    "description": "Chairman of the Presidential Leadership Council Yemen"
+                },
+                {
+                    "value": "Hakainde Hichilema",
+                    "category": "WorldLeader",
+                    "description": "President Zambia"
+                },
+                {
+                    "value": "Emmerson Mnangagwa",
+                    "category": "WorldLeader",
+                    "description": "President Zimbabwe"
+                }
+            ]
+        }
+    ]
+}
