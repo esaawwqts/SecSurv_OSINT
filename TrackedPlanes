@@ -5,7 +5,7 @@
       "name": "TrackedPlanes",
       "description": "List of tracked plane hex codes",
       "usage": 1,
-      "link": "https://example.com/tracked_planes.json",
+      "link": "https://raw.githubusercontent.com/esaawwqts/SecSurv_OSINT/refs/heads/main/TrackedPlanes",
       "entries": [
         {
           "value": "738A00",
