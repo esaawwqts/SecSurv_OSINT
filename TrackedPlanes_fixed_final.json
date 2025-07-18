@@ -1,0 +1,1245 @@
+{
+  "version": 1,
+  "data": [
+    {
+      "name": "TrackedPlanes",
+      "description": "List of tracked plane hex codes",
+      "usage": 1,
+      "link": "https://raw.githubusercontent.com/esaawwqts/SecSurv_OSINT/refs/heads/main/TrackedPlanes.json",
+      "entries": [
+        {
+          "value": [
+            "738A00",
+            "842"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A02",
+            "848"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A03",
+            "856"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A04",
+            "859"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738B4E",
+            "663"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738B48",
+            "661"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738B49",
+            "662"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738B4A",
+            "665"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738B4B",
+            "667"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738B4C",
+            "668"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738B4D",
+            "669"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A53",
+            "400"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A54",
+            "414"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A55",
+            "456"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A56",
+            "470"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A57",
+            "473"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A58",
+            "475"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A59",
+            "478"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A5A",
+            "481"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A5B",
+            "483"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A5C",
+            "484"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A5D",
+            "488"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A5F",
+            "490"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A60",
+            "491"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A61",
+            "492"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A62",
+            "493"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A63",
+            "494"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A64",
+            "495"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A65",
+            "496"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A66",
+            "497"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738B43",
+            "498"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A43",
+            "260"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A44",
+            "264"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A01",
+            "272"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A41",
+            "275"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A45",
+            "290"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738B42",
+            "295"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "7394C4"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A4E"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "7386C0",
+            "4X-ISR"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A81",
+            "102"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A83"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A84"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A87"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A85"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A86",
+            "318"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A8D",
+            "420"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A8E"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A82",
+            "428"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A8F",
+            "435"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A90",
+            "436"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A91",
+            "522"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A92",
+            "545"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A67"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A68"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A4B",
+            "684"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A4C",
+            "537"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A4D",
+            "569"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A49",
+            "676"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A4A",
+            "679"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A69",
+            "452"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "ADFECE",
+            "84-00488"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "ADFD73",
+            "91-00503"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "A0DBA9",
+            "N1542"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "A12C89",
+            "N175JA"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "A1F860",
+            "N226MB"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "A22E59",
+            "N24HD"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "A257BB",
+            "N250CL"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "A2583D",
+            "N250HR"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "A36C5C",
+            "N32EA"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "A3B4A6",
+            "N338MM"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "A0F262",
+            "N160HE"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "A3E55E",
+            "N350FV"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "A40A9D",
+            "N36GV"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "A60F73",
+            "N49TL"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "A65843",
+            "N508GE"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "A6385A",
+            "N50HV"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "A6ABDF",
+            "N529RL"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "A716CB",
+            "N556MC"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "A63543",
+            "N5AE"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "A7C85D",
+            "N600ML"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "A8148C",
+            "N62GT"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "A8401A",
+            "N6300F"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "A9F719",
+            "N741JR"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "AB11F9",
+            "N812NC"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "AC8A03",
+            "N907JP"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "ACBA95",
+            "N9191"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "ADA558",
+            "N979CT"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "A505AC",
+            "N4222A"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "43C2B5",
+            "ZZ419"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "739259",
+            "4X-BIH"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "43ED4B",
+            "2-WKTJ"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "ADFD6F",
+            "900530"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "AE01C3",
+            "64-14848"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "169659"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "AE7815",
+            "169804"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "162161"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "162164",
+            "162164"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "A64565",
+            "N503DE"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "A05DA1",
+            "N1221F"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "AE0404",
+            "84-00160"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "43C2B2",
+            "ZZ416"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "43C908",
+            "ZZ507"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "4B8298",
+            "13-004"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "4B82E1",
+            "TCB754"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "AE5420",
+            "10-2045"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "AE5421",
+            "11-2046"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "4B820C",
+            "14-0013"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "46FBEA",
+            "UC-02"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "739257",
+            "4X-BHP"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "739413",
+            "4X-CCM"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A88",
+            "302"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "AC3BBD",
+            "N888BY"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "4B82E2",
+            "TCB755"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "7395C0",
+            "4X-BCS"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "739242",
+            "4X-BIW"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "73924C",
+            "4X-BHV"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "000007"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "43C6F4",
+            "ZZ331"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "43C6D0",
+            "ZK318"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "43C791",
+            "ZK363"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "7061F6",
+            "KAF327"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "A7D68D",
+            "N604EP"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "0100C6",
+            "0100C6"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "40785B",
+            "G-WKTI"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "601131",
+            "EX-76015"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "0680C4",
+            "5X-PBR"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "04BAFD"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "739452",
+            "4X-BDP"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "498489",
+            "0455"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "717CA7",
+            "HZ-HM94"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "AE06D8",
+            "163560"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738BE8"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "73924F",
+            "4X-BIJ"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738BF0",
+            "301"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "739601",
+            "4X-IHB"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "AE7813",
+            "169660"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738E19",
+            "4X-BMM"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "5083B5",
+            "UR-HZV"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "AE01D3",
+            "62-4129"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "43C6B8",
+            "ZZ177"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "43C5DE",
+            "ZM404"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "4B82E6",
+            "68-01606"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "4D232D",
+            "AS2132"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "AE47DF",
+            "07-20029"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "4B8349",
+            "TC-J36"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "4B8394",
+            "TC-J3"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "AE77A4",
+            "22-9047"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "AE06E6",
+            "163837"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "73934A",
+            "4X-EMT"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "3B7545",
+            "F-RACH"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "AE517B",
+            "168484"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "AE688B"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738BEB"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "AE577B",
+            "14-20651"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "4B83A7",
+            "TCSG-575"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}
