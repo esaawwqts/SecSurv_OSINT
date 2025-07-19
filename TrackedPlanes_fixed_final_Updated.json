@@ -1,0 +1,1243 @@
+{
+  "version": 1,
+  "data": [
+    {
+      "name": "TrackedPlanes",
+      "description": "List of tracked plane hex codes",
+      "usage": 1,
+      "link": "https://raw.githubusercontent.com/esaawwqts/SecSurv_OSINT/refs/heads/main/TrackedPlanes.json",
+      "entries": [
+        {
+          "value": [
+            "738A00",
+            "842"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECH 200 Super King Air Israel"
+        },
+        {
+          "value": [
+            "738A02",
+            "848"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECH 200 Super King Air Israel"
+        },
+        {
+          "value": [
+            "738A03",
+            "856"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECH 200 Super King Air Israel"
+        },
+        {
+          "value": [
+            "738A04",
+            "859"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECH 200 Super King Air Israel"
+        },
+        {
+          "value": [
+            "738B4E",
+            "663"
+          ],
+          "category": "TrackedPlane",
+          "description": "LOCKHEED MARTIN C-130J Super Hercules Israel"
+        },
+        {
+          "value": [
+            "738B48",
+            "661"
+          ],
+          "category": "TrackedPlane",
+          "description": "LOCKHEED MARTIN C-130J Super Hercules Israel"
+        },
+        {
+          "value": [
+            "738B49",
+            "662"
+          ],
+          "category": "TrackedPlane",
+          "description": "LOCKHEED MARTIN C-130J Super Hercules Israel"
+        },
+        {
+          "value": [
+            "738B4A",
+            "665"
+          ],
+          "category": "TrackedPlane",
+          "description": "LOCKHEED MARTIN C-130J Super Hercules Israel"
+        },
+        {
+          "value": [
+            "738B4B",
+            "667"
+          ],
+          "category": "TrackedPlane",
+          "description": "LOCKHEED MARTIN C-130J Super Hercules Israel"
+        },
+        {
+          "value": [
+            "738B4C",
+            "668"
+          ],
+          "category": "TrackedPlane",
+          "description": "LOCKHEED MARTIN C-130J Super Hercules Israel"
+        },
+        {
+          "value": [
+            "738B4D",
+            "669"
+          ],
+          "category": "TrackedPlane",
+          "description": "LOCKHEED MARTIN C-130J Super Hercules Isreal"
+        },
+        {
+          "value": [
+            "738A53",
+            "400"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECHCRAFT T-6 Texan 2 Isreal"
+        },
+        {
+          "value": [
+            "738A54",
+            "414"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECHCRAFT T-6 Texan 2 Isreal"
+        },
+        {
+          "value": [
+            "738A55",
+            "456"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECHCRAFT T-6 Texan 2 Isreal"
+        },
+        {
+          "value": [
+            "738A56",
+            "470"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECHCRAFT T-6 Texan 2 Isreal"
+        },
+        {
+          "value": [
+            "738A57",
+            "473"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECHCRAFT T-6 Texan 2 Isreal"
+        },
+        {
+          "value": [
+            "738A58",
+            "475"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECHCRAFT T-6 Texan 2 Isreal"
+        },
+        {
+          "value": [
+            "738A59",
+            "478"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECHCRAFT T-6 Texan 2 Isreal"
+        },
+        {
+          "value": [
+            "738A5A",
+            "481"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECHCRAFT T-6 Texan 2 Isreal"
+        },
+        {
+          "value": [
+            "738A5B",
+            "483"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECHCRAFT T-6 Texan 2 Isreal"
+        },
+        {
+          "value": [
+            "738A5C",
+            "484"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECHCRAFT T-6 Texan 2 Isreal"
+        },
+        {
+          "value": [
+            "738A5D",
+            "488"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECHCRAFT T-6 Texan 2 Isreal"
+        },
+        {
+          "value": [
+            "738A5F",
+            "490"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECHCRAFT T-6 Texan 2 Isreal"
+        },
+        {
+          "value": [
+            "738A60",
+            "491"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECHCRAFT T-6 Texan 2 Isreal"
+        },
+        {
+          "value": [
+            "738A61",
+            "492"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECHCRAFT T-6 Texan 2 Isreal"
+        },
+        {
+          "value": [
+            "738A62",
+            "493"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECHCRAFT T-6 Texan 2 Isreal"
+        },
+        {
+          "value": [
+            "738A63",
+            "494"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECHCRAFT T-6 Texan 2 Isreal"
+        },
+        {
+          "value": [
+            "738A64",
+            "495"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECHCRAFT T-6 Texan 2 Isreal"
+        },
+        {
+          "value": [
+            "738A65",
+            "496"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECHCRAFT T-6 Texan 2 Isreal"
+        },
+        {
+          "value": [
+            "738A66",
+            "497"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECHCRAFT T-6 Texan 2 Isreal"
+        },
+        {
+          "value": [
+            "738B43",
+            "498"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECHCRAFT T-6 Texan 2 Isreal"
+        },
+        {
+          "value": [
+            "738A43",
+            "260"
+          ],
+          "category": "TrackedPlane",
+          "description": "BOEING 707-300 Israel"
+        },
+        {
+          "value": [
+            "738A44",
+            "264"
+          ],
+          "category": "TrackedPlane",
+          "description": "BOEING 707-300 Israel"
+        },
+        {
+          "value": [
+            "738A01",
+            "272"
+          ],
+          "category": "TrackedPlane",
+          "description": "BOEING 707-300 Israel"
+        },
+        {
+          "value": [
+            "738A41",
+            "275"
+          ],
+          "category": "TrackedPlane",
+          "description": "BOEING 707-300 Israel"
+        },
+        {
+          "value": [
+            "738A45",
+            "290"
+          ],
+          "category": "TrackedPlane",
+          "description": "BOEING 707-300 Israel"
+        },
+        {
+          "value": [
+            "738B42",
+            "295"
+          ],
+          "category": "TrackedPlane",
+          "description": "BOEING 707-300 Israel"
+        },
+        {
+          "value": [
+            "7394C4"
+          ],
+          "category": "TrackedPlane",
+          "description": "Israel"
+        },
+        {
+          "value": [
+            "738A4E"
+          ],
+          "category": "TrackedPlane",
+          "description": "Israel"
+        },
+        {
+          "value": [
+            "7386C0",
+            "4X-ISR"
+          ],
+          "category": "TrackedPlane",
+          "description": "BOEING 767-300 Israel"
+        },
+        {
+          "value": [
+            "738A81",
+            "102"
+          ],
+          "category": "TrackedPlane",
+          "description": "LOCKHEED C-130 Hercules Israel"
+        },
+        {
+          "value": [
+            "738A83"
+          ],
+          "category": "TrackedPlane",
+          "description": "Israel"
+        },
+        {
+          "value": [
+            "738A84"
+          ],
+          "category": "TrackedPlane",
+          "description": "Isreal"
+        },
+        {
+          "value": [
+            "738A87"
+          ],
+          "category": "TrackedPlane",
+          "description": "Israel"
+        },
+        {
+          "value": [
+            "738A85"
+          ],
+          "category": "TrackedPlane",
+          "description": "Israel"
+        },
+        {
+          "value": [
+            "738A86",
+            "318"
+          ],
+          "category": "TrackedPlane",
+          "description": "AGUSTA AW-119 Koala Israel"
+        },
+        {
+          "value": [
+            "738A8D",
+            "420"
+          ],
+          "category": "TrackedPlane",
+          "description": "LOCKHEED C-130 Hercules Israel"
+        },
+        {
+          "value": [
+            "738A8E"
+          ],
+          "category": "TrackedPlane",
+          "description": "LOCKHEED C-130 Hercules Israel"
+        },
+        {
+          "value": [
+            "738A82",
+            "428"
+          ],
+          "category": "TrackedPlane",
+          "description": "LOCKHEED C-130 Hercules Israel"
+        },
+        {
+          "value": [
+            "738A8F",
+            "435"
+          ],
+          "category": "TrackedPlane",
+          "description": "LOCKHEED C-130 Hercules Israel"
+        },
+        {
+          "value": [
+            "738A90",
+            "436"
+          ],
+          "category": "TrackedPlane",
+          "description": "LOCKHEED C-130 Hercules Israel"
+        },
+        {
+          "value": [
+            "738A91",
+            "522"
+          ],
+          "category": "TrackedPlane",
+          "description": "LOCKHEED C-130 Hercules Israel"
+        },
+        {
+          "value": [
+            "738A92",
+            "545"
+          ],
+          "category": "TrackedPlane",
+          "description": "LOCKHEED C-130 Hercules Israel"
+        },
+        {
+          "value": [
+            "738A67"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "738A68"
+          ],
+          "category": "TrackedPlane",
+          "description": "Israel"
+        },
+        {
+          "value": [
+            "738A4B",
+            "684"
+          ],
+          "category": "TrackedPlane",
+          "description": "GULFSTREAM 5 Israel"
+        },
+        {
+          "value": [
+            "738A4C",
+            "537"
+          ],
+          "category": "TrackedPlane",
+          "description": "GULFSTREAM 5 Israel"
+        },
+        {
+          "value": [
+            "738A4D",
+            "569"
+          ],
+          "category": "TrackedPlane",
+          "description": "GULFSTREAM 5 Israel"
+        },
+        {
+          "value": [
+            "738A49",
+            "676"
+          ],
+          "category": "TrackedPlane",
+          "description": "GULFSTREAM 5 Israel"
+        },
+        {
+          "value": [
+            "738A4A",
+            "679"
+          ],
+          "category": "TrackedPlane",
+          "description": "GULFSTREAM 5 Israel"
+        },
+        {
+          "value": [
+            "738A69",
+            "452"
+          ],
+          "category": "TrackedPlane",
+          "description": "GULFSTREAM 5 Israel"
+        },
+        {
+          "value": [
+            "ADFECE",
+            "84-00488"
+          ],
+          "category": "TrackedPlane",
+          "description": "Beech C-12U Huron US"
+        },
+        {
+          "value": [
+            "ADFD73",
+            "91-00503"
+          ],
+          "category": "TrackedPlane",
+          "description": "SWEARINGEN Metro US"
+        },
+        {
+          "value": [
+            "A0DBA9",
+            "N1542"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECH 200 Super King Air US"
+        },
+        {
+          "value": [
+            "A12C89",
+            "N175JA"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECH 200 Super King Air US"
+        },
+        {
+          "value": [
+            "A1F860",
+            "N226MB"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECH 200 Super King Air US"
+        },
+        {
+          "value": [
+            "A22E59",
+            "N24HD"
+          ],
+          "category": "TrackedPlane",
+          "description": "2007 BEECH 200 Super King Air TENAX AEROSPACE LLC US"
+        },
+        {
+          "value": [
+            "A257BB",
+            "N250CL"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECH 200 Super King Air US"
+        },
+        {
+          "value": [
+            "A2583D",
+            "N250HR"
+          ],
+          "category": "TrackedPlane",
+          "description": "2013 BEECH 200 Super King Air TENAX AEROSPACE LLC US"
+        },
+        {
+          "value": [
+            "A36C5C",
+            "N32EA"
+          ],
+          "category": "TrackedPlane",
+          "description": "2008 BEECH 200 Super King Air TENAX AEROSPACE LLC US"
+        },
+        {
+          "value": [
+            "A3B4A6",
+            "N338MM"
+          ],
+          "category": "TrackedPlane",
+          "description": "GULFSTREAM 4 US"
+        },
+        {
+          "value": [
+            "A0F262",
+            "N160HE"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECH 200 Super King Air US"
+        },
+        {
+          "value": [
+            "A3E55E",
+            "N350FV"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECHCRAFT Super King Air 350 US"
+        },
+        {
+          "value": [
+            "A40A9D",
+            "N36GV"
+          ],
+          "category": "TrackedPlane",
+          "description": "GULFSTREAM 5 US"
+        },
+        {
+          "value": [
+            "A60F73",
+            "N49TL"
+          ],
+          "category": "TrackedPlane",
+          "description": "2016 BEECH 200 Super King Air TENAX AEROSPACE LLC US"
+        },
+        {
+          "value": [
+            "A65843",
+            "N508GE"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECH 200 Super King Air US"
+        },
+        {
+          "value": [
+            "A6385A",
+            "N50HV"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECH 200 Super King Air US"
+        },
+        {
+          "value": [
+            "A6ABDF",
+            "N529RL"
+          ],
+          "category": "TrackedPlane",
+          "description": "1999 GULFSTREAM 5 TENAX AEROSPACE LLC US"
+        },
+        {
+          "value": [
+            "A716CB",
+            "N556MC"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECH 200 Super King Air US"
+        },
+        {
+          "value": [
+            "A63543",
+            "N5AE"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECH 200 Super King Air US"
+        },
+        {
+          "value": [
+            "A7C85D",
+            "N600ML"
+          ],
+          "category": "TrackedPlane",
+          "description": "2009 BEECH 200 Super King Air US"
+        },
+        {
+          "value": [
+            "A8148C",
+            "N62GT"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECH 200 Super King Air US"
+        },
+        {
+          "value": [
+            "A8401A",
+            "N6300F"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECH 200 Super King Air US"
+        },
+        {
+          "value": [
+            "A9F719",
+            "N741JR"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECH 200 Super King Air US"
+        },
+        {
+          "value": [
+            "AB11F9",
+            "N812NC"
+          ],
+          "category": "TrackedPlane",
+          "description": "PILATUS PC-12 US"
+        },
+        {
+          "value": [
+            "AC8A03",
+            "N907JP"
+          ],
+          "category": "TrackedPlane",
+          "description": "2013 BEECH 200 Super King Air US"
+        },
+        {
+          "value": [
+            "ACBA95",
+            "N9191"
+          ],
+          "category": "TrackedPlane",
+          "description": "BOMBARDIER CL-600 Challenger US"
+        },
+        {
+          "value": [
+            "ADA558",
+            "N979CT"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECH 200 Super King Air US"
+        },
+        {
+          "value": [
+            "A505AC",
+            "N4222A"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECH 1900 US"
+        },
+        {
+          "value": [
+            "43C2B5",
+            "ZZ419"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECHCRAFT Super King Air 350 UK"
+        },
+        {
+          "value": [
+            "739259",
+            "4X-BIH"
+          ],
+          "category": "TrackedPlane",
+          "description": "GUIMBAL G-2 Cabri Isreal"
+        },
+        {
+          "value": [
+            "43ED4B",
+            "2-WKTJ"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECHCRAFT Super King Air 350 Guernsey"
+        },
+        {
+          "value": [
+            "ADFD6F",
+            "900530"
+          ],
+          "category": "TrackedPlane",
+          "description": "Fairchild C-26D Metro III US"
+        },
+        {
+          "value": [
+            "AE01C3",
+            "64-14848"
+          ],
+          "category": "TrackedPlane",
+          "description": "Boeing RC-135V Rivet Joint US"
+        },
+        {
+          "value": [
+            "169659"
+          ],
+          "category": "TrackedPlane",
+          "description": "Russia"
+        },
+        {
+          "value": [
+            "AE7815",
+            "169804"
+          ],
+          "category": "TrackedPlane",
+          "description": "NORTHROP GRUMMAN RQ-4 Global Hawk US"
+        },
+        {
+          "value": [
+            "162161"
+          ],
+          "category": "TrackedPlane",
+          "description": "Russia"
+        },
+        {
+          "value": [
+            "162164"
+          ],
+          "category": "TrackedPlane",
+          "description": "Russia"
+        },
+        {
+          "value": [
+            "A64565",
+            "N503DE"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECHCRAFT Super King Air 350 US"
+        },
+        {
+          "value": [
+            "A05DA1",
+            "N1221F"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECHCRAFT Super King Air 350 US"
+        },
+        {
+          "value": [
+            "AE0404",
+            "84-00160"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECH 200 Super King Air US"
+        },
+        {
+          "value": [
+            "43C2B2",
+            "ZZ416"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECHCRAFT Super King Air 350 UK"
+        },
+        {
+          "value": [
+            "43C908",
+            "ZZ507"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECHCRAFT Super King Air 350 UK"
+        },
+        {
+          "value": [
+            "4B8298",
+            "13-004"
+          ],
+          "category": "TrackedPlane",
+          "description": "BOEING 737-700 AEWC Turkey"
+        },
+        {
+          "value": [
+            "4B82E1",
+            "TCB754"
+          ],
+          "category": "TrackedPlane",
+          "description": "ATR-72-600 Turkey"
+        },
+        {
+          "value": [
+            "AE5420",
+            "10-2045"
+          ],
+          "category": "TrackedPlane",
+          "description": "NORTHROP GRUMMAN RQ-4 Global Hawk US"
+        },
+        {
+          "value": [
+            "AE5421",
+            "11-2046"
+          ],
+          "category": "TrackedPlane",
+          "description": "NORTHROP GRUMMAN RQ-4 Global Hawk US"
+        },
+        {
+          "value": [
+            "4B820C",
+            "14-0013"
+          ],
+          "category": "TrackedPlane",
+          "description": "AIRBUS A-400M Turkey"
+        },
+        {
+          "value": [
+            "46FBEA",
+            "UC-02"
+          ],
+          "category": "TrackedPlane",
+          "description": "IAI Heron Drone Greece"
+        },
+        {
+          "value": [
+            "739257",
+            "4X-BHP"
+          ],
+          "category": "TrackedPlane",
+          "description": "SIKORSKY S-76 Spirit Isreal"
+        },
+        {
+          "value": [
+            "739413",
+            "4X-CCM"
+          ],
+          "category": "TrackedPlane",
+          "description": "PIPER PA-23-250 Aztec Isreal"
+        },
+        {
+          "value": [
+            "738A88",
+            "302"
+          ],
+          "category": "TrackedPlane",
+          "description": "AGUSTA AW-119 Koala Isreal"
+        },
+        {
+          "value": [
+            "AC3BBD",
+            "N888BY"
+          ],
+          "category": "TrackedPlane",
+          "description": "PIPER PA-46-500TP US"
+        },
+        {
+          "value": [
+            "4B82E2",
+            "TCB755"
+          ],
+          "category": "TrackedPlane",
+          "description": "ATR-72-600 Turkey"
+        },
+        {
+          "value": [
+            "7395C0",
+            "4X-BCS"
+          ],
+          "category": "TrackedPlane",
+          "description": "BELL 429 GlobalRanger Isreal"
+        },
+        {
+          "value": [
+            "739242",
+            "4X-BIW"
+          ],
+          "category": "TrackedPlane",
+          "description": "BELL 505 JetRanger X Isreal"
+        },
+        {
+          "value": [
+            "73924C",
+            "4X-BHV"
+          ],
+          "category": "TrackedPlane",
+          "description": "ROBINSON R-44 Raven Isreal"
+        },
+        {
+          "value": [
+            "000007"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "43C6F4",
+            "ZZ331"
+          ],
+          "category": "TrackedPlane",
+          "description": "AIRBUS A-330-200 UK"
+        },
+        {
+          "value": [
+            "43C6D0",
+            "ZK318"
+          ],
+          "category": "TrackedPlane",
+          "description": "EUROFIGHTER 2000 UK"
+        },
+        {
+          "value": [
+            "43C791",
+            "ZK363"
+          ],
+          "category": "TrackedPlane",
+          "description": "EUROFIGHTER 2000 UK"
+        },
+        {
+          "value": [
+            "7061F6",
+            "KAF327"
+          ],
+          "category": "TrackedPlane",
+          "description": "LOCKHEED MARTIN C-130J Super Hercules Kuwait"
+        },
+        {
+          "value": [
+            "A7D68D",
+            "N604EP"
+          ],
+          "category": "TrackedPlane",
+          "description": "BOMBARDIER CL-600 Challenger US"
+        },
+        {
+          "value": [
+            "0100C6"
+          ],
+          "category": "TrackedPlane",
+          "description": "Egypt"
+        },
+        {
+          "value": [
+            "40785B",
+            "G-WKTI"
+          ],
+          "category": "TrackedPlane",
+          "description": "DIAMOND DA-62 UK"
+        },
+        {
+          "value": [
+            "601131",
+            "EX-76015"
+          ],
+          "category": "TrackedPlane",
+          "description": "ILYUSHIN Il-76/82 Kyrgyzstan"
+        },
+        {
+          "value": [
+            "0680C4",
+            "5X-PBR"
+          ],
+          "category": "TrackedPlane",
+          "description": "LOCKHEED C-130 Hercules Uganda"
+        },
+        {
+          "value": [
+            "04BAFD"
+          ],
+          "category": "TrackedPlane",
+          "description": ""
+        },
+        {
+          "value": [
+            "739452",
+            "4X-BDP"
+          ],
+          "category": "TrackedPlane",
+          "description": "AEROSPATIALE AS-350 Ecureuil Isreal"
+        },
+        {
+          "value": [
+            "498489",
+            "0455"
+          ],
+          "category": "TrackedPlane",
+          "description": "CASA C-295 Persuader Czechia"
+        },
+        {
+          "value": [
+            "717CA7",
+            "HZ-HM94"
+          ],
+          "category": "TrackedPlane",
+          "description": "AGUSTA AW-139 KSA"
+        },
+        {
+          "value": [
+            "AE06D8",
+            "163560"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECH 200 Super King Air US"
+        },
+        {
+          "value": [
+            "738BE8"
+          ],
+          "category": "TrackedPlane",
+          "description": "IAI Heron Drone Israel"
+        },
+        {
+          "value": [
+            "73924F",
+            "4X-BIJ"
+          ],
+          "category": "TrackedPlane",
+          "description": "ROBINSON R-44 Raven Isreal"
+        },
+        {
+          "value": [
+            "738BF0",
+            "301"
+          ],
+          "category": "TrackedPlane",
+          "description": "AGUSTA AW-119 Koala Isreal"
+        },
+        {
+          "value": [
+            "739601",
+            "4X-IHB"
+          ],
+          "category": "TrackedPlane",
+          "description": "ATR-72-600 Isreal"
+        },
+        {
+          "value": [
+            "AE7813",
+            "169660"
+          ],
+          "category": "TrackedPlane",
+          "description": "NORTHROP GRUMMAN RQ-4 Global Hawk US"
+        },
+        {
+          "value": [
+            "738E19",
+            "4X-BMM"
+          ],
+          "category": "TrackedPlane",
+          "description": "AEROSPATIALE AS-350 Ecureui Isreal"
+        },
+        {
+          "value": [
+            "5083B5",
+            "UR-HZV"
+          ],
+          "category": "TrackedPlane",
+          "description": "MIL Mi-8/9/17/19/171/172 Ukraine"
+        },
+        {
+          "value": [
+            "AE01D3",
+            "62-4129"
+          ],
+          "category": "TrackedPlane",
+          "description": "Boeing TC-135W US"
+        },
+        {
+          "value": [
+            "43C6B8",
+            "ZZ177"
+          ],
+          "category": "TrackedPlane",
+          "description": "BOEING C-17 Globemaster 3 UK"
+        },
+        {
+          "value": [
+            "43C5DE",
+            "ZM404"
+          ],
+          "category": "TrackedPlane",
+          "description": "AIRBUS A-400M UK"
+        },
+        {
+          "value": [
+            "4B82E6",
+            "68-01606"
+          ],
+          "category": "TrackedPlane",
+          "description": "LOCKHEED C-130 Hercules Turkey"
+        },
+        {
+          "value": [
+            "4D232D",
+            "AS2132"
+          ],
+          "category": "TrackedPlane",
+          "description": "IAI Heron Drone Malta"
+        },
+        {
+          "value": [
+            "AE47DF",
+            "07-20029"
+          ],
+          "category": "TrackedPlane",
+          "description": "SIKORSKY UH-60 Black Hawk US"
+        },
+        {
+          "value": [
+            "4B8349",
+            "TC-J36"
+          ],
+          "category": "TrackedPlane",
+          "description": "BAYKAR TB-2 Turkey"
+        },
+        {
+          "value": [
+            "4B8394",
+            "TC-J3"
+          ],
+          "category": "TrackedPlane",
+          "description": "BAYKAR TB-2 Turkey"
+        },
+        {
+          "value": [
+            "AE77A4",
+            "22-9047"
+          ],
+          "category": "TrackedPlane",
+          "description": "BOMBARDIER BD-700 Global 6000/6500 US"
+        },
+        {
+          "value": [
+            "AE06E6",
+            "163837"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECH 200 Super King Air US"
+        },
+        {
+          "value": [
+            "73934A",
+            "4X-EMT"
+          ],
+          "category": "TrackedPlane",
+          "description": "EMBRAER ERJ-145 Isreal"
+        },
+        {
+          "value": [
+            "3B7545",
+            "F-RACH"
+          ],
+          "category": "TrackedPlane",
+          "description": "BEECHCRAFT Super King Air 350 France"
+        },
+        {
+          "value": [
+            "AE517B",
+            "168484"
+          ],
+          "category": "TrackedPlane",
+          "description": "BOEING FA-18 SUPER HORNET US"
+        },
+        {
+          "value": [
+            "AE688B"
+          ],
+          "category": "TrackedPlane",
+          "description": "BOEING P-8 Poseidon US"
+        },
+        {
+          "value": [
+            "738BEB"
+          ],
+          "category": "TrackedPlane",
+          "description": "IAI Heron Drone Isreal"
+        },
+        {
+          "value": [
+            "AE577B",
+            "14-20651"
+          ],
+          "category": "TrackedPlane",
+          "description": "SIKORSKY UH-60 Black Hawk US"
+        },
+        {
+          "value": [
+            "4B83A7",
+            "TCSG-575"
+          ],
+          "category": "TrackedPlane",
+          "description": "BAYKAR TB-2 Turkey"
+        }
+      ]
+    }
+  ]
+}
